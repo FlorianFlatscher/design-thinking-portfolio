@@ -143,7 +143,7 @@ Dies kann man zusammenfassen, als **Human Centered Design (= HCD)**. Dabei bilde
 
 ![Human Centered Design](./M08_hcd.png)
 
-## Lösungen - Von Problemstellungen zu Lösungen
+## Von Problemstellungen zu Lösungen
 Der Lösungsweg ist keinen falls linear, doch kann man gewisse Phasen erkennen. Man spricht von divergierendem und konvergierendem Denken.
 
 ![Lösungen im Design-Thinking Prozess](img.png)
@@ -222,7 +222,7 @@ Nachdem wir reichlich Ideen generiert haben kommt es zur **Auswahl der Ideen**. 
 DAVID
 
 # Teams
-Teams sind ein wesentlicher Bestandteil in der Arbeitswelt. Bei Mitgliedern gibt es zwei sehr relevante Dimensionen: tiefes Fachwissen und Allgemeinwissen. Wichtig ist auch Know-how und Erfahrung in einem Themenbereich. Ein funktionierendes Team hat ein ganzheitliches Denken. Es gibt keine limitierende Perspektive, das vielseitige Team betrachtet Themen aus allen Richtungen gleichzeitig. Ein relevantes Modell, welches hilft zu Bewerten, ob ein Team für Design-Thinking geeignet ist, ist das **Prinzip der T-Shaped People** von Dorothy Leonard-Barton.
+Beim Design Thinking gilt: Nur als Team, denn Viele sind schlauer als Wenige. Teams sind ein wesentlicher Bestandteil in der Arbeitswelt. Bei Mitgliedern gibt es zwei sehr relevante Dimensionen: tiefes Fachwissen und Allgemeinwissen. Wichtig ist auch Know-how und Erfahrung in einem Themenbereich. Ein funktionierendes Team hat ein ganzheitliches Denken. Es gibt keine limitierende Perspektive - das vielseitige Team betrachtet Themen aus allen Richtungen gleichzeitig. Ein relevantes Modell, welches hilft zu Bewerten, ob ein Team für Design-Thinking geeignet ist, ist das **Prinzip der T-Shaped People** von Dorothy Leonard-Barton.
 
 ![img_4.png](img_4.png)
 
@@ -231,11 +231,11 @@ Der vertikale Balken des T-Profils steht für fachliche kompetenz, spezialisiert
 Personen mit T-Proil sind die beste Wahl für ein Team mit sowohl tiefem, als auch breitem Wissen. Der horizontale Balken bildet die Brücke zwischen verschiedenem Fachwissen. So entsteht ein interdisziplinäres Team, welches aufgrund, iterativen Abstimmungen zu besserer Qualität des Gesamtergebnisses führt. Damit ein interdisziplinäres Team aber ein gemeinsames Ziel verfolgen kann, braucht es einige Regeln:
 
 1) Das Team hat eine gemeinsame Vision.
-2) Themen, die im Design-Thinking Prozess auftreten, werden immer vom passendem Fachexperten geführt.
+2) Themen, die im Design-Thinking Prozess auftreten, werden immer vom passendem Fachexperten geführt. Leadership ist wichtig. Leder sind Leute, denen automatisch gefolgt wird.
 3) Das Team einigt sich auf gemeinsame Werte.
 4) Es gibt eine Atmosphäre des Vertrauens.
-5) Prozesse sind gemeinsam durchzuführen, sodass jeder stets das Vorgehen versteht.
-6) Nachvollziehbares Feedback ist notwendig für Verbesserung 
+5) Prozesse sind gemeinsam durchzuführen, sodass jeder stets das Vorgehen versteht. Absprache und Kommuniktation sind dabei essenziell.
+6) Nachvollziehbares Feedback ist notwendig für Verbesserung.
 
 Neben dem T-Model, ist auch das **Metaphorisches Modell** relevant für die Zusammenstellung von Teams. Dieses beschreibt unser Gehirn in vier physiologischen Hirnstrukturen wie folgt:
 
@@ -243,7 +243,7 @@ Neben dem T-Model, ist auch das **Metaphorisches Modell** relevant für die Zusa
 
 Es kann hilfreich sein, sich offen im Tem über die verschiedenen Denkpräferenzen auszutauschen, und Aufgaben den Erkenntnissen nach aufzuteilen. Dieser Austausch fördert ein Verständnis unter den Teammitgliedern. Dadurch kann jeder seine oder ihre Stärken ausspielen und es kommt so schlussendlich zu besseren Lösungen.
 
-Zusammengefasst ist also vor allem die Heterogenität eines Teams Qualitätsrelevant. Man achtet auf ausgewogene fachlich relevante Perspektiven und persönlichkeitsbezogene Ansichten. Die unterschiedlichen Herangehensweisen, Denkpräferenzen und Hintergrundwissen fürder die Kreativität des Teams als kleinste Einheit.     
+Zusammengefasst ist also vor allem die Heterogenität eines Teams qualitätsrelevant. Man achtet auf ausgewogene fachlich relevante Perspektiven und persönlichkeitsbezogene Ansichten. Die unterschiedlichen Herangehensweisen, Denkpräferenzen und Hintergrundwissen fürder die Kreativität des Teams als kleinste Einheit.
 
 
 # Mindset und Future Driven - Vorbereitung
