@@ -70,15 +70,19 @@ Viele erfolgreiche Organisationen befinden sich stätig in beiden Phasen, um auf
 
 Unterschiede zwischen Exploration und Exploitation:
 
-|     |     |
-|-----|-----|
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
+| Charakterisik | Exploration                                      | Exploitation                                             |
+|---------------|--------------------------------------------------|----------------------------------------------------------|
+| Fokus         | Ideenfindung                                     | Aministration                                            |
+| Ziel          | Von einer Knowledge-Phase zur nächsten iterieren | Wissen verbessern und ableiten; in einer Knowledge-Stage |
+| Werkzeuge     | Intuition, Kreativität, Hypothesen               | Analyse, historische Daten                               |
+| Orientierung  | Zukunft                                          | Vergangenheit und Gegenwart                              |
+| Limitationen  | -                                                | Aktuelles Wissen                                         |
+| Risiko        | groß und unberechnbar                            | gering und berechenbar                                   |
+| Value         | enorm                                            | gering                                                   |
 
+Dies zeigt, dass die Exploration Phase zwar risikoreicher ist, aber im Erfolgsfall einen enorm positiven Einfluss auf die Organisartion hat.
 
+Beispiel hierfür: Eine Bäckerei verkauft Brot. Die Suche nach einer alternativen Brotsorte ist risikoreich. Wird sie aber gefunden, hat das neue Produkt enormes Erfolgspotential und völlig neue Märkte werden erschlossen. Versucht die Bäckerei hingegen bestehende Produkte stetig zu vesbessern, so ist dies nicht so risikoreich. Schafft sie es, Brotsorten zu verbessern, kann es sein, dass das Brot öfter gekauft wird - neue Märkte werden jedenfalls nicht erschlossen.
 
 ## Ausgangshypothese
 Wenn Innovation in einem Bereich vorangetrieben werden soll, dann ist es wichtig, eine Ausgangshypothese zu haben, um das dahinter liegende Problem effektiv zu lösen. Dabei kommt es auf die richtige Wahl an - den Ansatzpunkt. Folgender Prozess kann hilfreich sein, die Ausgangshypothese herauszuarbeiten:
@@ -95,7 +99,7 @@ Ein Beispiel hierfür ist die ADHS-Forschung, die höchst kompliziert ist und be
 Grundlegend: Daten, die der Norm enstprechen, sind oft überanalysiert und sie tragen kein Wissen mehr in sich. Daten hingegen, die das eine Prozent ausmachen, das nicht der Norm entspricht, wurden häufig noch gar nicht analyisiert und tragen neue Ansätze für das Ssystem in sich.
 
 # Von Anfang zu Ende - Design Thinking als Prozess
-Bei Design Thinking geht es um einen Prozess. Ähnlich wie bei agilen Projekt Management Prozessen wie Scrum nach ISO-13407 gibt es einen Makrozyklus der aus sich wiederholenden Mikrozyklen entsteht. Die besten Ideen sind nichts wert, wenn wir sie nicht als erfolgreiche Innovation am Markt etabliert haben. IDEO legt mit ihrer Formulierung des Mikrozyklus einen starken Fokus auf die Umsetzung.
+Bei Design Thinking geht es um einen Prozess. Ähnlich wie bei agilen Projekt Management Prozessen wie Scrum nach ISO-13407 gibt es einen Makrozyklus, der aus sich wiederholenden Mikrozyklen entsteht. Die besten Ideen sind nichts wert, wenn wir sie nicht als erfolgreiche Innovation am Markt etabliert haben. IDEO legt mit ihrer Formulierung des Mikrozyklus einen starken Fokus auf die Umsetzung.
 
 Der Mikrozyklus definiert sich wie folgt:
 - **Verstehe** - Um ein Problem lösen zu können, muss man es erstmal verstehen. Es geht aber nich nur darum die Aufgabenstellung zu verstehen, man möchte den Markt, die Klienten, die Technologie, die Randbedinungen, die restriktionen und Optimirungskriterien kennen lernen. 
@@ -103,6 +107,7 @@ Der Mikrozyklus definiert sich wie folgt:
 - **Visualisiere** - Das visualisieren von Ideen hilft, zu verstehen und zu veranschaulichen. Dazu kommen oft technische Hilfsmittel ins Spiel, wie 3D Software, Simulationen und Prototype.
 - **Bewerte** und **Optimiere** - Ein Prototyp ist dazu da Mängel und Verbesserungen zu erkennen und diese zu bewerten und optimieren.
 - **Implementiere** - Es geht darum das neue Konzept in die Realität zu schaffen.
+
 
 
 # Lösungen - Von Problemstellung zu Entscheidung
