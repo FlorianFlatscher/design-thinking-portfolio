@@ -59,6 +59,27 @@ Dementsprechend, können sich Unternehmen zeitgleich in verschiedenen Knowledge 
 
 ![Parallele Knowledge Funnels](./M03_many.png)
 
+## Exploration und Exploitation
+Viele Unternehmen durchlaufen den Knowledge Funnel nur einmal, was den Spielraum für Innovation stark einschränkt. Wenn ein Produktfeld gefunden wird, beginnt das Unternehmen mit der Aufstellung und Prüfung von Hypothesen, bis ein Produk geschaffen wurde, das dies alles erfüllt. Bleibt man nun stehen und agiert nur noch auf Basis von bestehenden Produkten, indem man sie weiter entwicklet, lässt man den Markt häufig aus der Sicht. Vielleicht ergeben sich neue Märkte und neue Produkte. Um diese und andere Fragen zu beantworten, muss man wieder Wissen generieren und kreativ Denken - also: den Knowledge Funnel mehrmals durchlaufen.
+
+Im Knowledge-Funnel ist es wichtig, von einer Phase in die nächste (oder gegebenenfalls zurück) zu iterieren. Dabei sollte in jeder Phase möglichst genau agiert werden, um das nötige Wissen zu erhalten. Der Management Theoretiker **James March** hat hierfür einen Ansatz entwickelt, der dies beschreibt. Er unterscheidet zwischen Wissens-Generierung (Exploration) und Wissens-Nutzung (Exploitation):
+- **Exploration**: Suche nach neuem Wissen
+- **Exploitation**: Bestehendes Wissen vesbessern und implizites (= abgeleitetes) Wissen schaffen während man sich in einer Knowledge-Phase befindet
+
+Viele erfolgreiche Organisationen befinden sich stätig in beiden Phasen, um auf der einen Seite neue Ideen zu finden und andererseits Bestehendes zu vesbessern.
+
+Unterschiede zwischen Exploration und Exploitation:
+
+|     |     |
+|-----|-----|
+|     |     |
+|     |     |
+|     |     |
+|     |     |
+|     |     |
+
+
+
 ## Ausgangshypothese
 Wenn Innovation in einem Bereich vorangetrieben werden soll, dann ist es wichtig, eine Ausgangshypothese zu haben, um das dahinter liegende Problem effektiv zu lösen. Dabei kommt es auf die richtige Wahl an - den Ansatzpunkt. Folgender Prozess kann hilfreich sein, die Ausgangshypothese herauszuarbeiten:
 - Domainauswahl (Produkt- oder Strukturdomain)
@@ -69,12 +90,9 @@ Wenn Innovation in einem Bereich vorangetrieben werden soll, dann ist es wichtig
 
 Outlier haben Merkmale, die nicht dem Rest entsprechen - die aber ebenso beachtet werden sollten. Sie zeigen Aspekte auf, die sich keiner Trivialität unterwerfen aber nützlich für die Studie der Domain sind.
 
+Ein Beispiel hierfür ist die ADHS-Forschung, die höchst kompliziert ist und bei der die Wissenschaft seit Jahrzehnten nur stückweit Fortschritte erziehlt. Einen Durchbruch gab es, als Stephen Scherer (Toronto's world-renowed Hospital for Sick Children) Outlier-Daten analysierte. Diese Daten enthielten die nötigen Informationen, um die Krankheit stückweit besser zu erklären.
 
-
-## Exploration und Exploitation
-
-
-
+Grundlegend: Daten, die der Norm enstprechen, sind oft überanalysiert und sie tragen kein Wissen mehr in sich. Daten hingegen, die das eine Prozent ausmachen, das nicht der Norm entspricht, wurden häufig noch gar nicht analyisiert und tragen neue Ansätze für das Ssystem in sich.
 
 # Von Anfang zu Ende - Design Thinking als Prozess
 Bei Design Thinking geht es um einen Prozess. Ähnlich wie bei agilen Projekt Management Prozessen wie Scrum nach ISO-13407 gibt es einen Makrozyklus der aus sich wiederholenden Mikrozyklen entsteht. Die besten Ideen sind nichts wert, wenn wir sie nicht als erfolgreiche Innovation am Markt etabliert haben. IDEO legt mit ihrer Formulierung des Mikrozyklus einen starken Fokus auf die Umsetzung.
@@ -119,7 +137,7 @@ Beim divergierendem Denken geht es darum zu identifizieren, diskutieren, bekannt
 # Lean Geschäftsmodell
 MO
 
-
+# Apple als Beispiel
 
 
 # Sources
@@ -128,3 +146,4 @@ MO
 - https://www.franchiseverband.com/wissen/franchising-definition#:~:text=Franchising%20ist%20ein%20auf%20Partnerschaft,gegen%20eine%20Geb%C3%BChr%20nutzen%20d%C3%BCrfen.
 - Roger L. Martin (November 2009). The Design of Business. Harvard Business Press.
 - https://en.wikipedia.org/wiki/The_Design_of_Business
+- http://www-management.wharton.upenn.edu/pennings/documents/March_1991_exploration_exploitation.pdf
