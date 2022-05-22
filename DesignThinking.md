@@ -81,7 +81,7 @@ Ein Beispiel hierfür ist die ADHS-Forschung, die höchst kompliziert ist und be
 Grundlegend: Daten, die der Norm enstprechen, sind oft überanalysiert und sie tragen kein Wissen mehr in sich. Daten hingegen, die das eine Prozent ausmachen, das nicht der Norm entspricht, wurden häufig noch gar nicht analyisiert und tragen neue Ansätze für das Ssystem in sich.
 
 # Von Anfang zu Ende - Design Thinking als Prozess
-Bei Design Thinking geht es um einen Prozess. Ähnlich wie bei agilen Projekt Management Prozessen wie Scrum nach ISO-13407 gibt es einen Makrozyklus, der aus sich wiederholenden Mikrozyklen entsteht. Die besten Ideen sind nichts wert, wenn wir sie nicht als erfolgreiche Innovation am Markt etabliert haben. IDEO legt mit ihrer Formulierung des Mikrozyklus einen starken Fokus auf die Umsetzung.
+Bei Design Thinking geht es um einen Prozess. Ähnlich wie bei agilen Projekt Management Prozessen wie Scrum nach ISO-13407 gibt es einen Makrozyklus, der aus sich wiederholenden Mikrozyklen entsteht. Dies hat den Sinn, dass die verschiedene Phasen öfter durchlaufen werden und somit ein Kunden-optimiertes Produkt entsteht. Die besten Ideen sind nichts wert, wenn wir sie nicht als erfolgreiche Innovation am Markt etabliert haben. IDEO legt mit ihrer Formulierung des Mikrozyklus einen starken Fokus auf die Umsetzung.
 
 Der Mikrozyklus nach der Design- und Innovationsagentur (= IDEO) umfasst folgende inkrementelle Phasen:
 
@@ -96,7 +96,7 @@ Der standatisierte Prozess ergibt sich wie folgt:
 ![Der Mikrozyklus](./M06_mikozyklus.png)
 
 ## Verstehen
-In dieser Phase ist es wichtig, die Zielgruppe (mittels Persona-Beschreiung) sowie dessen Herausforderungen, Bedürfnisse und Probleme zu versteheh. Von Bedeutung ist es, Kreativität einzusetzen um sich bestmöglich in die Situation der Zielgruppe hineinversetzen zu können. In dieser Phase können speziell zwei Fragearten eingesetz werden:
+In dieser Phase ist es wichtig, die Zielgruppe sowie dessen Herausforderungen, Bedürfnisse und Probleme zu versteheh. Von Bedeutung ist es, Kreativität einzusetzen um sich bestmöglich in die Situation der Zielgruppe hineinversetzen zu können. In dieser Phase können speziell zwei Fragearten eingesetz werden:
 
 - **WARUM?** - Warum hat die Zielgruppe das Bedürfnis? Dies erweitert den kreativen Rahmen.
 - **WIE?** - Konkrete Lösungsideen. Dies ist eine einengende Frageart, da allgemeine Lösungen gefunden werden.
@@ -112,17 +112,64 @@ Weiters könnnen in dieser Phase einige Fragen gestellt werden:
 | Wie wird die Lösung implementiert?       |
 
 ## Beobachten
+Als nächstes ist es wichtig, gewonnene Informationen weiter zu validieren und anzupassen. Dafür werden Interaktionen von den Personas mit ihrer Umwelt aufgezeichnet und dokumentiert (viele Visualisierungen). Beispielsweise können KundInnen in der Bank beobachtet werden - wie verhalten sie sich? In der heutigen Welt, kommt speziell in dieser Phase Big Data Analytics zum Einsatz.
+
+Arten der Dokumentation:
+
+- Idea Boards
+- Vision Boards
+- Fotos mit Geschichten
+- Mindmaps
+- Moodbilder
+- Lebensläufe und Personas
+
+Im nächsten Schritt werden die Personas nun genauer definiert (siehe Kapitel _Personas_).
 
 ## Standpunkte definieren
+Die Personas sind im Mittelpunkt. Das Team muss allerdings auf eine gemeinsame Wissenbasis kommen, wozu die gesammelten und dokumentierten Beobachtungen von den Personas interpretiert werden, wobei zentrale Aussagen getroffen werden. Wichtig ist es, dass die Informationen und Standpunkte für alle Teammitglieder einfach zugänglich sind.
 
 ## Ideen finden
+Ziel ist es, inkrementell die Kreativität des Teams zu steigern und in Folge von Brainstorming Sessions zu mehreren Ideen zu kommen, wie die ursprüngliche Problemstellung gelöst werden kann. (siehe Kapitel _Innovation und Ideengenerierung_)
 
 ## Prototyp entwickeln
+Wurde eine Idee ausgewählt, sollte so schnell wie möglich ein funktionierender Prototyp gebaut werden. Dieser kann anschließend direkt an den Kunden überreicht werden, um schon in frühen Phasen Feedback zu sammeln. 
+
+Arten von Prototypen:
+
+- **Digitale Prototypen** - Videos, Filme, Screen Mockups, Landing Pages, etc.
+- **Physische Prototypen** - Modelle; aus Karton, Alufolie, Papier, Lego, etc.
+
+Besonders oft kommt es in dieser Phase zur Entwicklung eines **Minimal Viable Products** (= MVP), was eine bereits lauffähige Version des Produkts ist, der nur die essenziellen Features enthält und dafür schnell gebaut wird. Auf Einzelheiten und Details sollte noch kein Wert gelegt werden, da noch nicht sicher ist, wie das Produkt letztendlich aussieht.
+
+Hier gilt das Prinzip: Stetige, inkrementelle Verbesserung des Prototyps führen irgendwann zum verwendbaren Produkt.
 
 ## Testen
+Hat man den Prototypen entwicklet, ist dies eine risiege Chance, echtes qualititatives Feedback zu erhalten, um das Produkt stückweit zu verbessern. Tests weisen eine Struktur auf:
+
+| Phase                   | Erklärung                                             |
+|-------------------------|-------------------------------------------------------|
+| Testvorbereitung        | Testszenarios entwerfen                               |
+| Testdurchführung        | Kunden-Interviews, A/B-Tests, Online Tests            |
+| Resultate Dokumentieren | Feedback und Daten sammeln, Feedback-Erfahrungsraster |
+| Learning ableiten       | Was ist am Prototyp/Produkt zu verbessern?            |
+
+Der Feedback-Erfarungsraster beinhaltet folgende Felder:
+
+- Gefällt mir -
+- Wünsche 
+- Fragen 
+- Ideen
+
+Von Vorteil ist es auch, Parameter zu definieren, wie sehr das Produkt den Kundenwünschen entspricht. Hierfür können die aufgestellten Parameter mithilfe des Kundenscores (0 - 100 %) zusammengefasst werden. Dieser Score gibt stetig Auskunft über die derzeitige Lage und das erreichte Value. 
+
 
 ## Reflektieren
+Bevor die Iteration abgschlossen ist, gilt es die Erfahrungen rückblickend zu bewerten. Dies kann in Feedback-Runden oder Reflexions-Sessions passieren. 
 
+Ziele:
+
+- **Teamfokus** - Was kann am Team verbessert werden?
+- **Produktfokus** - Wie wurde das Produkt weiter entwickelt? Waren die Tests erfolgreich? Entspricht das Produkt den Anforderungen?
 
 # Kunden und Problemorientierung - HCD
 Design Thinking ist eine mächtige Methode, die auf zwei Säulen basiert:
@@ -219,6 +266,8 @@ Nachdem wir reichlich Ideen generiert haben kommt es zur **Auswahl der Ideen**. 
 
 
 # Personas
+Aufgrund des HCDs ist es wichtig, seine KundInnen vor den Augen zu haben - sie zu kennen, zu wissen was sie denken. Dies erfährt man, indem man sich bestmöglich in sie hineinversetzt. Eine Methode hierzu sind Personas, also vereinfachte, spezifische, beispielhafte Darstellungen seiner KundInnen.
+
 ## Persona erstellen
 Um eine Persona zu erstellen, muss man den typischen Nutzer als "reale Person" darstellen. Um wie wahren Bedürfnisse herauszufinden, werden oft auch Skizzen von potenziellen Nutzern erstellt. Mit diesen wird dann überprüft, ob es solche Nutzer bereits in der realen Welt gibt. Damit man nun die passenden Präferenzen und Bedürfnisse des Nutzers bekommt, muss man Einblicke in die "deep insights" bekommen.
 Für diese Einblicke gibt es Workshops, in denen Canvas-Modelle eingesetzt werden. Ein Beispiel dafür wäre das "User Profile Canvas", in dem eine lebensgroße Person auf ein Plakat gezeichnet wird und mit Bildern, Fotos, Zitaten, etc. geschmückt wird. Diese wird dann schrittweise verbessert, indem versucht wird, das eigentliche Problem zu finden. Ähnlich zu diesem Vorgang wird es auch bei Profilern, die man aus Krimiserien kennt, gemacht.
@@ -226,11 +275,16 @@ Für diese Einblicke gibt es Workshops, in denen Canvas-Modelle eingesetzt werde
 - Empathie mit Nutzer aufbauen
 
 ### User Profile Canvas
-![UPC_Person.png](UPC_Person.png)
-![UPC.png](UPC.png)
+![User Profile Canvas](UPC_Person.png)
+
+- **Pains**: Was bereitet KundInnen Sorgen?
+- **Gains**: Was macht KundInnen glücklich?
+- **Jobs-to-be-done**: Welche Ziele haben KundInnen mit dem Produkt?
+- **Use Cases**: Wo wird das Produkt eingesetzt?
+
 ### Empathie Map
-Um Empathie zu einem potenziellen Nutzer aufzubauen, benötigt man als erstes einen Entwurf einer Persona. Dabei hilft Brainstorming, aber auch Informationen von Interviews, realen Personen und Beobachtungen. Um nun Empathy zum potenziellen Nutzer aufzubauen, trifft man sich und dokumentiert alle Erkenntnisse. Um Empathie zu erlangen, kann auch die Empathie Map angewandt und befüllt werden. Die davon erlangten Erkenntnisse müssen wiederum analysiert und in eine Persona eingesetzt werden.
-![EmpathyMap.png](EmpathyMap.png)
+Um Empathie zu einem potenziellen Nutzer aufzubauen, benötigt man als erstes einen Entwurf einer Persona. Dabei hilft Brainstorming, aber auch Informationen von Interviews, realen Personen und Beobachtungen. Um nun Empathie zum potenziellen Nutzer aufzubauen, trifft man sich und dokumentiert alle Erkenntnisse. Um Empathie zu erlangen, kann auch die Empathie Map angewandt und befüllt werden. Die davon erlangten Erkenntnisse müssen wiederum analysiert und in eine Persona eingesetzt werden.
+![Empathie Map](EmpathyMap.png)
 
 ## Persona überprüfen
 Um Erkenntnisse über den Nutzer zu erlangen, wird die AEIOU-Methode verwendet. Hierfür muss man mit den potenziellen Nutzern sprechen und versuchen, sie nachvollziehen zu können. Dabei kann der AEIOU-Fragebogen ein gutes Hilfsmittel sein, um Information zu erlangen. Außerdem kann man durch das Überschreiten dieser Hemmung, fremde Personen anzusprechen, ein "Needfinding-Experte" werden.
@@ -287,7 +341,7 @@ Um Erkenntnisse über den Nutzer zu erlangen, wird die AEIOU-Methode verwendet. 
 # Teams
 Beim Design Thinking gilt: Nur als Team, denn Viele sind schlauer als Wenige. Teams sind ein wesentlicher Bestandteil in der Arbeitswelt. Bei Mitgliedern gibt es zwei sehr relevante Dimensionen: tiefes Fachwissen und Allgemeinwissen. Wichtig ist auch Know-how und Erfahrung in einem Themenbereich. Ein funktionierendes Team hat ein ganzheitliches Denken. Es gibt keine limitierende Perspektive - das vielseitige Team betrachtet Themen aus allen Richtungen gleichzeitig. Ein relevantes Modell, welches hilft zu Bewerten, ob ein Team für Design-Thinking geeignet ist, ist das **Prinzip der T-Shaped People** von Dorothy Leonard-Barton.
 
-![img_4.png](img_4.png)
+![T-Shaped Teams](img_4.png)
 
 Der vertikale Balken des T-Profils steht für fachliche kompetenz, spezialisiert in einer Disziplin, einem System oder einer Kultur. Der horizontale Balken überstreckt sich über zwei Eigenschaften. Einerseits die Empathie, also wie sehr eine Person in andere hinein fühlen kann. Dann gibt es noch die Kollaborationsfähigkeiten. Dazu zählen Offenheit, Interesse und Neugier. 
 
@@ -302,7 +356,7 @@ Personen mit T-Proil sind die beste Wahl für ein Team mit sowohl tiefem, als au
 
 Neben dem T-Model, ist auch das **Metaphorisches Modell** relevant für die Zusammenstellung von Teams. Dieses beschreibt unser Gehirn in vier physiologischen Hirnstrukturen wie folgt:
 
-![img_5.png](img_5.png)
+![Metaphorisches Modell](img_5.png)
 
 Es kann hilfreich sein, sich offen im Tem über die verschiedenen Denkpräferenzen auszutauschen, und Aufgaben den Erkenntnissen nach aufzuteilen. Dieser Austausch fördert ein Verständnis unter den Teammitgliedern. Dadurch kann jeder seine oder ihre Stärken ausspielen und es kommt so schlussendlich zu besseren Lösungen.
 
