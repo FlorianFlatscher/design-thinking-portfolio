@@ -227,11 +227,9 @@ Für diese Einblicke gibt es Workshops, in denen Canvas-Modelle eingesetzt werde
 
 ### User Profile Canvas
 ![UPC_Person.png](UPC_Person.png)
-
 ![UPC.png](UPC.png)
 ### Empathie Map
 Um Empathie zu einem potenziellen Nutzer aufzubauen, benötigt man als erstes einen Entwurf einer Persona. Dabei hilft Brainstorming, aber auch Informationen von Interviews, realen Personen und Beobachtungen. Um nun Empathy zum potenziellen Nutzer aufzubauen, trifft man sich und dokumentiert alle Erkenntnisse. Um Empathie zu erlangen, kann auch die Empathie Map angewandt und befüllt werden. Die davon erlangten Erkenntnisse müssen wiederum analysiert und in eine Persona eingesetzt werden.
-
 ![EmpathyMap.png](EmpathyMap.png)
 
 ## Persona überprüfen
