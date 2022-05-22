@@ -146,7 +146,7 @@ Egal um welche Art von Problem es sich handelt, es ist immer wichtig genug Zeit 
 2. Die Design-Challenge muss so definiert werden, dass diese es erlaubt, nützliche Lösungen zu entwickeln
 3. Die potenzielle Lösung muss zum definierten Design Space & Scope passen
 
-Um Probleme greifbarer zu machen, reicht es of den kreativen Rahmen zu verkleinern oder manchmal auch etwas zu erweitern, um das richtige Niveau zu erhalten. Wie steuere ich den kreatieven Rahmen? Durch die Frage nach dem Warum wird der kreative Rahmen erweitert. Durch die Frage nach dem Wie steuert man auf realistischere Lösungen zu. 
+Um Probleme greifbarer zu machen, reicht es of den kreativen Rahmen zu verkleinern oder manchmal auch etwas zu erweitern, um das richtige Niveau zu erhalten. Wie steuere ich den kreativen Rahmen? Durch die Frage nach dem Warum wird der kreative Rahmen erweitert. Durch die Frage nach dem Wie steuert man auf realistischere Lösungen zu. 
 
 Um diesen Gedankengang besser zu veranschaulichen, ein Beispiel von Umgang mit einem Problem in Zusammenhang mit einem Dosenöffner.
 
@@ -165,6 +165,13 @@ FLO
 
 # Testing und Prototyping
 DAVID
+
+
+# Mindset
+
+# Future driven
+
+# Testing
 
 # Personas
 DAVID
