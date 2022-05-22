@@ -1,25 +1,3 @@
-
-# Buzzwords
-## Das Design Thinking Framework
-Problemdefinition
-Bedürfnisse von Nutzern
-Empathie zum Nutzer
-richtiger Fokus
-generieren von Ideen
-Prototypen
-Testen
-## Erfolgsfaktoren
-kreative Räume und Umgebungen
-interdisziplinäre Teams
-Storytelling
-Mindset
-## Zukunft
-Lean
-Implementierung
-Design Thinking in der Digitalisierung
-
-# Design- und Innovationsagentur IDEO
-
 # Die Welt voller Design Thinking - Integration von Design Thinking in unsere Welt
 Wir leben in einer Welt voller komplexer und komplizierter Abläufen, die sich gegenseitig beeinflussen und somit Systeme entstehen. Unternehmen und soziale Konstrukte wachsen so schnell wie noch nie und durch die rasche Änderung unserer Gesellschaft durch Globalisierung braucht es konstant geschickte Entscheidungen, um sich an rasche Änderungen anpassen zu können. In unserer digitalen Welt geht nicht darum sich in eine Situation einzubauen - viel mehr geht es darum sich an die Änderung der Situation anzupassen. Design Thinking ist nicht klar definiert. Klar ist aber, dass es um Nutzen von Kreativität geht, um die großen Probleme unserer Zeit zu lösen. Die Lösung der Problemstellung steht im Vordergund. Es ist eine Idee, Methode und Strategie, die Welt aus neuen Blickwinkeln zu betrachten und so komplexe Konzepte zu durchschauen. Es ist kein einfacher Weg, noch ist es ein Weg der immer funktioniert, aber doch scheint Design Thinking seine Relevanz uns seinen Einfluss in der heutigen Welt bestätigen zu können.
 
@@ -118,6 +96,32 @@ Der standatisierte Prozess ergibt sich wie folgt:
 ![Der Mikrozyklus](./M06_mikozyklus.png)
 
 ## Verstehen
+In dieser Phase ist es wichtig, die Zielgruppe (mittels Persona-Beschreiung) sowie dessen Herausforderungen, Bedürfnisse und Probleme zu versteheh. Von Bedeutung ist es, Kreativität einzusetzen um sich bestmöglich in die Situation der Zielgruppe hineinversetzen zu können. In dieser Phase können speziell zwei Fragearten eingesetz werden:
+
+- **WARUM?** - Warum hat die Zielgruppe das Bedürfnis? Dies erweitert den kreativen Rahmen.
+- **WIE?** - Konkrete Lösungsideen. Dies ist eine einengende Frageart, da allgemeine Lösungen gefunden werden.
+
+Weiters könnnen in dieser Phase einige Fragen gestellt werden:
+
+| Frage                                    |
+|------------------------------------------|
+| Wer ist die Zielgruppe?                  |
+| Warum gibt es das Bedürfnis?             |
+| Welche Lösungen gibt es bereits?         |
+| Wo wird das Ergebnis-Produkt eingesetzt? |
+| Wie wird die Lösung implementiert?       |
+
+## Beobachten
+
+## Standpunkte definieren
+
+## Ideen finden
+
+## Prototyp entwickeln
+
+## Testen
+
+## Reflektieren
 
 
 # Kunden und Problemorientierung - HCD
@@ -139,14 +143,14 @@ Dies kann man zusammenfassen, als **Human Centered Design (= HCD)**. Dabei bilde
 
 ![Human Centered Design](./M08_hcd.png)
 
-# Lösungen - Von Problemstellungen zu Entscheidungen
+## Lösungen - Von Problemstellungen zu Lösungen
 Der Lösungsweg ist keinen falls linear, doch kann man gewisse Phasen erkennen. Man spricht von divergierendem und konvergierendem Denken.
 
 ![Lösungen im Design-Thinking Prozess](img.png)
 
 Beim divergierendem Denken geht es darum zu identifizieren, diskutieren, bekannte optionen und unterschiedliche Perspectieven kennen zu lernen. In dieser Phase geht es quasi darum mögllichst viele Ideen und Lösungen zu sammeln. Dann folgt die Phase des konvergiertem Denken. Dabei geht es um priorisieren, auswählen, vereinfachen, konsolidieren. Es geht darum die vielen generierten Ideen zu einer Lösung zu integrieren. Dazwischen gibt es die "Groan Zone", die Phase, die das Umdenken definiert. Diese Zone ist umbedingt zu erkennen, da es der optimale Punkt ist, das Denkverhalten zu ändern. Das Divergieren und Konvergieren dauert mal länger, mal kürzer. Natürlich wiederhohlen  sich diese Phasen immer wieder im Design Thinking Prozess.
 
-# Arten von Problemen
+## Arten von Problemen
 
 ## Well defined problems
 ![Well defined problems](img_1.png)
@@ -154,12 +158,12 @@ Beim divergierendem Denken geht es darum zu identifizieren, diskutieren, bekannt
 Es gibt ein klares Problem, verschiedene Wege, und eine klare Lösung. Man spricht auch von **blauen Problemen**.
 
     
-## Ill defined problems
+### Ill defined problems
 ![Ill defined problems](img_2.png)
 
 Es gibt ein unklares Problem mit verschiedenen Wegen. Es gibt aber mehrere Lösungen. Auch bekannt als **rote Probleme**
 
-## Wicked problems
+### Wicked problems
 ![Wicked problems](img_3.png)
 
 Hier geht es um ein unbekanntes Problem, ein Problem welches man noch nicht erkannt hat. Oft kommt es erst nur zu Teillösungen, um die Problemdefinition zu verschärfen und es dadurch das ill defined problem zu vorschein zu bringen.
@@ -185,7 +189,7 @@ Un jetzt die Frage nach dem Warum:
 
 Man erkennt sofort, dass man durch Warum fragen schnell an die Grenzen der Komfortzone gebracht wird. Das eigentliche Problem ist bei solchen Wicked Problems nicht mehr offensichtlich. Die Wie fragen helfen das Problem mehr greifbar zu machen.
 
-# Innovation und Ideengenerierung
+## Innovation und Ideengenerierung
 
 Nachdem wir Probleme geklärt haben, geht es jetzt um Ideen um diese zu Lösen. Wie generieren wir Ideen? Es ist klar, dass die meisten bahnbrechenden Ideen nicht nur während einem Brainstorming entstehen. Was entscheidet die Quantität unserer Idee?
 
@@ -193,7 +197,7 @@ Kreative Firmen lassen ihren MitarbeiterInnen möglichst viel Freiraum, da dies 
 
 Trotzdem schreckt es viele Vorgesetzte, wenn MitarbeiterInnen erklären, dass sie die nächsten vier Stunden im Pausenraum verbringen, mit der begründung dadurch Ideen zu finden. Es braucht daher konkrete Methoden und Tools der struktuierten Ideenfindung. 
 
-#### Brainstormings
+### Brainstormings
 Ein Brainstorming kann nicht beginnen, wenn nicht alle einmal gelacht haben. Es geht darum eine lockere und entspannte Atmosphäre zu schaffen, die kreatives Denken ermöglicht. Wichtig ist zu verstehn, dass es bei Brainstormings nicht darum geht Lösungen zu finden, sondern Ideen zu generieren. Deshalb gibt es einpaar Regeln, die ein erfolgreiches Brainstorming ausmachen:
 
 - **Kreativer Mut**: Teilnehmer müssen alle Ideen äußern, die ihnen in den Sinn kommen, auch wenn sie auf den ersten Blick irrelevant erscheinen. Andere könnten dann auf dieser Idee aufbauen. Um kreativen Mut zu schaffen, sind vor allem Hierarchiestrukturen hinderlich. Als Neuling möchte man sich natürlich einen guten Eindruck beim Chef hinterlassen. Experten im Bereich Design-Thinking sind sich überaus einig, dass eine Vorstellrunde in einem Brainstorming ein No-Go ist. Noch besser ist, wenn sich die Teilnehmer überhaupt nicht kennen. Fokus sollte auf der Ideenfindung liegen, nicht darauf sich zu beweisen. Jeder kann Ideen liefern, egal, welche Funktion und Rolle er oder sie hat.
@@ -204,16 +208,14 @@ Bereits zum Beginn eines Brainstorming haben alle TeilnehmerInnen bereits eine t
 1) **Wettbewerb**: Größere Runden lassen sich in kleinere Teams einteilen, die dann untereinander Ideen finden. Nach Halbzeit gibt es dann einen kleinen Wettbewerb, in dem jede Gruppe ihre Ideen präsentiert. Der springende Punkt ist aber, die Ideen nicht nach qualität zu bewerten, sondern nach quantität. Das Team mit den meisten Ideen gewinnt. Die einzelnen Teams erhalten dadurch ansporn kreative Leistungen zu erbringen. Außerdem wird erkannt, wenn einzelne Gruppen mit der Quantität weit zurückliegen. Oft liegt es daran, dass sie sich auf Diskussionen und Kritik an Ideen eingelassen haben. So gibt es sogar einen natürlichen selbstkritischen Kreislauf.
 2) **Präsentieren**: Anschließend soll jedes Team ihre zwei besten und ihre zwei dümmsten Ideen vorstellen. Das führt einerseits zu viel gekicher und hebt somit die Stimmung, führt aber auch zu einem Neuwert, wenn wir es schaffen genau diese Ideen ins Positive zu drehen. In jeder Idee steckt Potenzial.
 
-#### Kopfstandmethode
+### Kopfstandmethode
 Bei der Kopfstandmethode geht es nicht um Sport, es geht darum, die Fragestellung umzudrehen. Statt "Wie fördere ich Kreativität in meinem Unternehmen?", heißt es dann "Wie verhindere ich Kreativität in meinem Unternehmen?". Alle Teilnehmer haben dann die Möglichkeit ihre kreativität zu nutzen, um sich über ein Thema lustig zu machen. Im Anschluss geht es dann darum die Ideen wieder umzudrehen und so eine Idee für die originale Fragestellung zu generieren. Diese Methode ist vor allem geeignet, um Dienstleistungsabläufe zu überdenken und zu verbessern. Bei Produkten ist die Kopfstandmethode meist besser um Anforderungen zu erstellen, anstatt Ideen zu finden.
 
 Nachdem wir reichlich Ideen generiert haben kommt es zur **Auswahl der Ideen**. Bevor man eine Entscheidung trifft, einigt man sich erst auf Ideen, die man weiter verfolgen möchte. Dazu gibt es sehr viele Möglichkeiten. Hier einpaar beispiele:
 - Punktbewertung: Jeder hat eine gewisse Anzahl an Stimmen und kann diese auf die Ideen aufteilen. Die Ideen mit der besten Bewertung werden weiterverfolgt.
 - Nur Ideen mit Neuigkeitswert werden weiter verfolgt.
 - Ideen werden in ein Diagramm mit mehreren Achsen, wie "Cool" und "Machbar", eingeteilt. Es werden anschließend zwei oder mehr Ideen ausgewählt, diese müssen aber nicht zwangsläufig in der Mitte oder am Rand sein. Die Einteilung nach gewissen charakteristiken führt oft zu neuer Erkenntnis und Verbesserungen.
-- Beim Clustering geht es darum, Ideen nach Themen und Überbegriffen zu gruppieren. Das versichert, dass alle die Ideen richtig verstehen.
-
-
+- Beim **Clustering** geht es darum, Ideen nach Themen und Überbegriffen zu gruppieren. Das versichert, dass alle die Ideen richtig verstehen.
 
 
 # Personas
@@ -226,6 +228,25 @@ FLO
 
 # Mindset und Future Driven - Vorbereitung
 David
+
+# Scrum
+Scrum ist eine agile Projektmanagement Technik (ISO 13407), die auf Methoden des Design Thinkings basiert. Dabei wird das Projekt in Sprints, also Feedback Schleifen mit dem Kunden, unterteilt.
+
+Vorgehen:
+
+- In dem **Kickoff-Meeting** werden alle Produktfeatures, die der Kunde will, zusammen mit deren Benefit (= Value) aufgenommen und unterteilt.
+- Jedes Feature wird in Form einer **User-Story** beschrieben: "Als <Benutzer>, will ich <Feature>, sodass <Value>". Dies hilft dabei, die **Definition of Done** eines Features zu dokumentieren, denn ein Feature gilt dann als erledigt, wenn der Benutzer entsprechend der User-Story das beschriebene Value erreichen kann.
+- Die User-Stories werden in dem **Product-Backlog** eingeordnet und nach Priorität und Implementierungs-Reinfolge geordnet. 
+- Danach beginnen die **Sprints**, die allesamt Mikrozyklen darstellen (mit einer Dauer von 1-4 Wochen) und aus folgenden Phasen bestehen:
+  - Ein Spring-Backlog wird erstellt
+  - Das Team sucht sich die User Stories, die sie in dem Sprint Implementieren wollen, aus dem Product Backlog und ordnet sie in den **Sprint Backlog** ein
+  - Jeden Tag gibt es ein **Daily Standup Meeting**, wo alle Teammitglieder kurz und knapp erzählen, WAS sie gemacht haben, WAS sie machen werden und ob sie etwas brauchen
+  - Nach dem Sprint findet das **Sprint Review** statt, wo das Team mittels eines kurzen Workshops herausarbeitet, was gut und was schlecht gelaufen ist und wie man dies verbessern kann
+  - Hat das Team seine Leistung und interne Teamdynamik beurteilt, findet die **Sprint Retroperspective** zusammem mit dem Kunden statt. Dabei wird das erreichte Value präsentiert und womöglich sofort an die User im bestehenden Produkt ausgeliefert (= **Continuous Delivery**).
+
+![Scrum Prozess](./M09_Scrum.png)
+
+Scrum bedeutet dass das Team agil ist. Einwände und Wünsche vom Kunden können auch noch während des Projekts berücksichtigt werden, ohne Requirements grundlegnd neu zu definieren: Flexibilität. Die Arbeit in Sprints führt zu einem regen und engen Austausch mit dem Kunden, wodurch das Produkt stets in die richtige Richtung verläuft. Auch wird in jedem Sprint ein **Value Increment** erziehlt, was bedeutet, dass das Produkt nach jedem Sprint wächst - es wird immer entwicklet und die Planungszeit verteilt sich gelichmäßig auf das Projekt.
 
 # Apple als Beispiel
 
@@ -260,4 +281,4 @@ Beim Design Thinking geht es daraum, seine KundInnen und ihre Probleme zu verste
 - https://en.wikipedia.org/wiki/The_Design_of_Business
 - http://www-management.wharton.upenn.edu/pennings/documents/March_1991_exploration_exploitation.pdf
 - https://medium.com/macoclock/how-apple-used-design-thinking-38afb6770a6
-- 
+- https://www.atlassian.com/de/agile/scrum
