@@ -25,8 +25,8 @@ Wir leben in einer Welt voller komplexer und komplizierter Abläufen, die sich g
 
 # Organisationen und Design Thinking
 Wenn es darum geht, durchwachsene Organisationen solide auzubauen, ist es wichtig, eine der Kernchallenges zu verstehen, um darauf zielgerechte Lösungsstrategien anzuwenden. Unternehmen setzen sich in der Regel das Ziel zu skalieren, was durch Produktinnovation und Prozessoptimierung aus -ausfahrung funktioniert. Auf der einen Seite gilt es neue Produkte für zeitrelevante Probleme zu finden - andererseits geht es aber genauso darum, bestehende Produkte und Abläuft so zu verbessern dass sie zu einer besseren Gewinnstellung und zu einem konstanten Wachstum des Unternehmens führen. Zusammengefasst geht es also um:
-- analytisches Denken (Prozessoptimierung)
-- kreatives Denken (Produktinnovation und organisationelle Innovation - Wandlung und Chancen)
+- **analytisches Denken** (Prozessoptimierung)
+- **kreatives Denken** (Produktinnovation und organisationelle Innovation - Wandlung und Chancen)
 
 McDonald's als Beispiel für organisationelle Revolution:
 Das amerikanische Burgerunternehmen hat klein begonnen. Die Köche haben gekocht wie in jedem anderen Burgerunternehmen auch. Doch McDonald's fand einen großen Kundenstrom, der die Basis für seine Skalierung und Expansion war. Unter anderem wegen dem Franchise-Modell hatte McDonald's Erfolg. Wenn man das Beispiel klarer betrachte, so fällt auf dass es einige Faktoren gab, die maßgeblich zu seinem Erfolg beigetragen haben:
@@ -43,6 +43,7 @@ Da beide Denkweisen (analytisch und kreativ) substanziell für Unternehmen sind,
 ![Der Knwoledge Funnel](./M02_knwoledge_funnel.png)
 
 Bei dem Knowledge Funnel handelt es sich um einen iterativen und sich wiederholenden Prozess, der folgende Phasen beinhaltet:
+
 - **"Mystery"**: Hier geht es darum, das ursprüngliche Problem anzugreifen und durch erste Recherche und Studien, Wissen daraus zu generieren. Dieses Wissen ist stark unstrukturiert.
 - **Heuristiken**: Um das Wissen der letzten Phase nutzen zu können, müssen Strukturen und andere Zusammenhänge in dem generierten Wissen gefunden werden. Daraus entstehen wage Daumenregeln, die aber das Wissensspektrum auf die relevanten Informationen beschränken.
 - **Algorithmen**: Um das Problem zu vereinfachen, werden die zuvor gewonnnen Heuristiken nun in klar definierten Abläufe (= Alogrithmen) transformiert, sodass man das generierte Wissen ausschöpft und daraus praktikable Strukturen gewinnt, die auf die Organisation angewandt werden können.
@@ -52,8 +53,9 @@ Die Kraft dieses Werkzeugs zeigt sich in seiner Anwendbarkeit. Unternehmen könn
 ![Verschiedene Domains](./M04_arten_domains.png)
 
 Beispiele:
-- Produktinnovation: Neue Produkte werden entworfen oder bestehende Produkte werden verbessert
-- Strukturinnovation: Innovation organisationelle Abläufe in verschiedenen Abteilungen (veraltete Denkweise) und Teams (neue Denkweise); häufig sind genaue Algorithmen nicht das Ziel - vielmehr geht es daraum, neue wissenschaftliche Erkenntnisse zu erhalten
+
+- **Produktinnovation**: Neue Produkte werden entworfen oder bestehende Produkte werden verbessert
+- **Strukturinnovation**: Innovation organisationelle Abläufe in verschiedenen Abteilungen (veraltete Denkweise) und Teams (neue Denkweise); häufig sind genaue Algorithmen nicht das Ziel - vielmehr geht es daraum, neue wissenschaftliche Erkenntnisse zu erhalten
 
 Dementsprechend, können sich Unternehmen zeitgleich in verschiedenen Knowledge Funnels befinden, um maximalen Mehrwert für die KundInnen und die Organisation zu bringen:
 
@@ -63,6 +65,7 @@ Dementsprechend, können sich Unternehmen zeitgleich in verschiedenen Knowledge 
 Viele Unternehmen durchlaufen den Knowledge Funnel nur einmal, was den Spielraum für Innovation stark einschränkt. Wenn ein Produktfeld gefunden wird, beginnt das Unternehmen mit der Aufstellung und Prüfung von Hypothesen, bis ein Produk geschaffen wurde, das dies alles erfüllt. Bleibt man nun stehen und agiert nur noch auf Basis von bestehenden Produkten, indem man sie weiter entwicklet, lässt man den Markt häufig aus der Sicht. Vielleicht ergeben sich neue Märkte und neue Produkte. Um diese und andere Fragen zu beantworten, muss man wieder Wissen generieren und kreativ Denken - also: den Knowledge Funnel mehrmals durchlaufen.
 
 Im Knowledge-Funnel ist es wichtig, von einer Phase in die nächste (oder gegebenenfalls zurück) zu iterieren. Dabei sollte in jeder Phase möglichst genau agiert werden, um das nötige Wissen zu erhalten. Der Management Theoretiker **James March** hat hierfür einen Ansatz entwickelt, der dies beschreibt. Er unterscheidet zwischen Wissens-Generierung (Exploration) und Wissens-Nutzung (Exploitation):
+
 - **Exploration**: Suche nach neuem Wissen
 - **Exploitation**: Bestehendes Wissen vesbessern und implizites (= abgeleitetes) Wissen schaffen während man sich in einer Knowledge-Phase befindet
 
@@ -86,6 +89,7 @@ Beispiel hierfür: Eine Bäckerei verkauft Brot. Die Suche nach einer alternativ
 
 ## Ausgangshypothese
 Wenn Innovation in einem Bereich vorangetrieben werden soll, dann ist es wichtig, eine Ausgangshypothese zu haben, um das dahinter liegende Problem effektiv zu lösen. Dabei kommt es auf die richtige Wahl an - den Ansatzpunkt. Folgender Prozess kann hilfreich sein, die Ausgangshypothese herauszuarbeiten:
+
 - Domainauswahl (Produkt- oder Strukturdomain)
 - Datenauswertung und Visualisierung
 - Finden von "Outliers" - Daten, die nich der Norm entsprechen
@@ -101,26 +105,46 @@ Grundlegend: Daten, die der Norm enstprechen, sind oft überanalysiert und sie t
 # Von Anfang zu Ende - Design Thinking als Prozess
 Bei Design Thinking geht es um einen Prozess. Ähnlich wie bei agilen Projekt Management Prozessen wie Scrum nach ISO-13407 gibt es einen Makrozyklus, der aus sich wiederholenden Mikrozyklen entsteht. Die besten Ideen sind nichts wert, wenn wir sie nicht als erfolgreiche Innovation am Markt etabliert haben. IDEO legt mit ihrer Formulierung des Mikrozyklus einen starken Fokus auf die Umsetzung.
 
-Der Mikrozyklus definiert sich wie folgt:
-- **Verstehe** - Um ein Problem lösen zu können, muss man es erstmal verstehen. Es geht aber nich nur darum die Aufgabenstellung zu verstehen, man möchte den Markt, die Klienten, die Technologie, die Randbedinungen, die restriktionen und Optimirungskriterien kennen lernen. 
-- **Beobachte** und **Analysiere** - Es geht darum das Verhalten von echten Usern im bezug auf die Aufgabenstellung zu beobachten.
-- **Visualisiere** - Das visualisieren von Ideen hilft, zu verstehen und zu veranschaulichen. Dazu kommen oft technische Hilfsmittel ins Spiel, wie 3D Software, Simulationen und Prototype.
-- **Bewerte** und **Optimiere** - Ein Prototyp ist dazu da Mängel und Verbesserungen zu erkennen und diese zu bewerten und optimieren.
-- **Implementiere** - Es geht darum das neue Konzept in die Realität zu schaffen.
+Der Mikrozyklus nach der Design- und Innovationsagentur (= IDEO) umfasst folgende inkrementelle Phasen:
 
-Grafik
+- **Verstehen** - Um ein Problem lösen zu können, muss man es erstmal verstehen. Es geht aber nich nur darum die Aufgabenstellung zu verstehen, man möchte den Markt, die KundInnen, die Technologie, die Randbedinungen, die Restriktionen und Optimirungskriterien kennen lernen. 
+- **Beobachten** und **Analysiere** - Es geht darum das Verhalten von echten Usern im Bezug auf die Aufgabenstellung zu beobachten.
+- **Visualisieren** - Das Visualisieren von Ideen hilft, zu verstehen und zu veranschaulichen. Dazu kommen oft technische Hilfsmittel ins Spiel, wie 3D Software, Simulationen und Prototype.
+- **Bewerten** und **Optimieren** - Ein Prototyp ist dazu da Mängel und Verbesserungen zu erkennen und diese zu bewerten und optimieren.
+- **Implementieren** - Es geht darum das neue Konzept in die Realität zu schaffen.
 
-# Kunden und Problemorientierung
-MO
+Der standatisierte Prozess ergibt sich wie folgt:
 
-# Lösungen - Von Problemstellung zu Entscheidung
+![Der Mikrozyklus](./M06_mikozyklus.png)
+
+## Verstehen
+
+
+# Kunden und Problemorientierung - HCD
+Design Thinking ist eine mächtige Methode, die auf zwei Säulen basiert:
+ - KundInnen
+ - und ihre alltäglichen Probleme bzw. Herausforderungen
+
+Es ist wichtig, dass man diese zwei Kritierien zu Beginn des Design Thinking Prozesses versteht und darauf eingeht. Fehlt eine der beiden Säulen macht Design Thinking keinen Sinn. Es geht darum, das Leben für KundInnen zu vereinfachen. Gibt es keine Probleme, so kann man auch nichts lösen.
+
+Es ist eine Falscheinschätzung Design Thinking auf die Idee zu konzentrieren. Aus der Vergangenheit wissen wir, dass Unternehmen, die kein Problem zu lösen versuchen oft kläglich scheitern. Warum? Weil keiner ihr Produkt, ihre Idee, braucht - sie ist überflüsslich und die Nachfrage erlischt komplett.
+
+| Idee                  | Problem                                            | KundInnen                                                      |
+|-----------------------|----------------------------------------------------|----------------------------------------------------------------|
+| Car-Sharing           | Autos sind teuer                                   | Menschen, die kein Auto haben, aber manchmal ein Auto brauchen |
+| Schwangerschaftskurse | Verhalten in der Schwanderschaft ist nicht trivial | Schwangere Frauen                                              |
+| Schulen               | Wir brauch eine Basisbildung                       | Kinder und Jugendliche                                         |
+
+Dies kann man zusammenfassen, als **Human Centered Design (= HCD)**. Dabei bildet man die Bedürfnisse der KundInnen ab und gestaletet das Produkt möglichst nutzerfreundlich (User Expirience).
+
+![Human Centered Design](./M08_hcd.png)
+
+# Lösungen - Von Problemstellungen zu Entscheidungen
 Der Lösungsweg ist keinen falls linear, doch kann man gewisse Phasen erkennen. Man spricht von divergierendem und konvergierendem Denken.
 
 ![Lösungen im Design-Thinking Prozess](img.png)
 
-Beim divergierendem Denken geht es darum zu identifizieren, diskutieren, bekannte optionen und unterschiedliche Perspectieven kennen zu lernen. In dieser Phase geht es quasi darum mögllichst viele Ideen und Lösungen zu sammeln. Dann folgt die Phase des konvergiertem Denken. Dabei geht es um priorisieren, auswählen, vereinfachen, konsolidieren. Es geht quasie darum die vielen generierten Ideen zu einer Lösung zu integrieren. Dazwischen gibt es die "Groan Zone", die Phase, die das Umdenken definiert. Diese Zone ist umbedingt zu erkennen, da es der optimale Punkt ist denkverhalten zu ändern. Das Divergieren und Konvergieren dauert mal länger, mal kürzer. Natürlich wiederhohlen sie sich immer wieder im Design Thinking Prozess.  
-
-
+Beim divergierendem Denken geht es darum zu identifizieren, diskutieren, bekannte optionen und unterschiedliche Perspectieven kennen zu lernen. In dieser Phase geht es quasi darum mögllichst viele Ideen und Lösungen zu sammeln. Dann folgt die Phase des konvergiertem Denken. Dabei geht es um priorisieren, auswählen, vereinfachen, konsolidieren. Es geht darum die vielen generierten Ideen zu einer Lösung zu integrieren. Dazwischen gibt es die "Groan Zone", die Phase, die das Umdenken definiert. Diese Zone ist umbedingt zu erkennen, da es der optimale Punkt ist, das Denkverhalten zu ändern. Das Divergieren und Konvergieren dauert mal länger, mal kürzer. Natürlich wiederhohlen  sich diese Phasen immer wieder im Design Thinking Prozess.
 
 # Arten von Problemen
 
@@ -151,6 +175,7 @@ Um Probleme greifbarer zu machen, reicht es of den kreativen Rahmen zu verkleine
 Um diesen Gedankengang besser zu veranschaulichen, ein Beispiel von Umgang mit einem Problem in Zusammenhang mit einem Dosenöffner.
 
 Wen wir nach dem Wie fragen:
+
 - Wie kann durch einen Drehmechanismus die Dose geöffnet werden?
 - Wie kann die Dose ohne zusätzliches Hilfsmittel geöffnet werden?
 
@@ -163,16 +188,6 @@ Man erkennt sofort, dass man durch Warum fragen schnell an die Grenzen der Komfo
 # Innovation und Ideengenerierung
 FLO
 
-# Testing und Prototyping
-DAVID
-
-
-# Mindset
-
-# Future driven
-
-# Testing
-
 # Personas
 DAVID
 
@@ -180,14 +195,21 @@ DAVID
 p. 144
 FLO
 
-# Lean Geschäftsmodell
-MO
 
 # Mindset und Future Driven - Vorbereitung
-
+David
 
 # Apple als Beispiel
-MO
+
+> “Most people make the mistake of thinking design is what it looks like. People think it’s this veneer — that the designers are handed this box and told, ‘Make it look good!’ That’s not what we think the design is. It’s not just what it looks like and feels like. Design is how it works.” — Steve Jobs
+
+Apple unter Steve Jobs war ein Gigang im Design Thinking. Eine Erfolgsstory nach der anderen - und alles begründet durch strategisches und keatives Design Thinking. Der iPod, das iPhone, der iPad - Innovation um Innovation. Hier stellt man sich der Frage, wie es Apple schafft, mit jedem neuen Produkte, genau die Wünsche und Bedürfnisse der KundInnen abzubilden - und jedes Mal ins Schwarze zu treffen.
+
+Dies ist sofort erkennbar, wenn man auf Apple's Mac Evolution blickt:
+
+![Mac Evolution](./M07_MacBook_evolution.png)
+
+
 
 # Sources
 - Design Thinking Playbook von Michael Lewrick, Patrick Link und Larry Leifer
@@ -196,3 +218,5 @@ MO
 - Roger L. Martin (November 2009). The Design of Business. Harvard Business Press.
 - https://en.wikipedia.org/wiki/The_Design_of_Business
 - http://www-management.wharton.upenn.edu/pennings/documents/March_1991_exploration_exploitation.pdf
+- https://medium.com/macoclock/how-apple-used-design-thinking-38afb6770a6
+- 
