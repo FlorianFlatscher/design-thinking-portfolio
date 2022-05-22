@@ -120,10 +120,42 @@ Beim divergierendem Denken geht es darum zu identifizieren, diskutieren, bekannt
 
 
 # Arten von Problemen
-## Well defined
-## Ill defined
-## Wicked problems
 
+### Well defined problems
+![img_1.png](img_1.png)
+
+Es gibt ein klares Problem, verschiedene Wege, und eine klare Lösung. Man spricht auch von **blauen Problemen**.
+
+    
+### Ill defined problems
+![img_2.png](img_2.png)
+
+Es gibt ein unklares Problem mit verschiedenen Wegen. Es gibt aber mehrere Lösungen. Auch bekannt als **rote Probleme**
+
+### Wicked problems
+![img_3.png](img_3.png)
+
+Hier geht es um ein unbekanntes Problem, ein Problem welches man noch nicht erkannt hat. Oft kommt es erst nur zu Teillösungen, um die Problemdefinition zu verschärfen und es dadurch das ill defined problem zu vorschein zu bringen.
+
+Egal um welche Art von Problem es sich handelt, es ist immer wichtig genug Zeit und Ressourcen zu verwenden, um ein möglichst gute Problemdefinition zu erhalten. Es mag oft eine Überwindung sein, da man ja eigentlich eine Lösung finden und kein Problem schaffen will. Um eine gute Lösung zu finden, gibt es aber drei klare Anforderungen:
+
+1. Das Design Thinking Team muss das Problem verstanden haben.
+2. Die Design-Challenge muss so definiert werden, dass diese es erlaubt, nützliche Lösungen zu entwickeln
+3. Die potenzielle Lösung muss zum definierten Design Space & Scope passen
+
+Um Probleme greifbarer zu machen, reicht es of den kreativen Rahmen zu verkleinern oder manchmal auch etwas zu erweitern, um das richtige Niveau zu erhalten. Wie steuere ich den kreatieven Rahmen? Durch die Frage nach dem Warum wird der kreative Rahmen erweitert. Durch die Frage nach dem Wie steuert man auf realistischere Lösungen zu. 
+
+Um diesen Gedankengang besser zu veranschaulichen, ein Beispiel von Umgang mit einem Problem in Zusammenhang mit einem Dosenöffner.
+
+Wen wir nach dem Wie fragen:
+- Wie kann durch einen Drehmechanismus die Dose geöffnet werden?
+- Wie kann die Dose ohne zusätzliches Hilfsmittel geöffnet werden?
+
+Un jetzt die Frage nach dem Warum:
+- Wie können wir den Welthunger stoppen?
+- Wie könnten wir verhindern, dass so viele Lebensmittel weggeworfen werden?
+
+Man erkennt sofort, dass man durch Warum fragen schnell an die Grenzen der Komfortzone gebracht wird. Das eigentliche Problem ist bei solchen Wicked Problems nicht mehr offensichtlich. Die Wie fragen helfen das Problem mehr greifbar zu machen.
 
 # Innovation und Ideengenerierung
 
