@@ -148,19 +148,19 @@ Beim divergierendem Denken geht es darum zu identifizieren, diskutieren, bekannt
 
 # Arten von Problemen
 
-### Well defined problems
-![img_1.png](img_1.png)
+## Well defined problems
+![Well defined problems](img_1.png)
 
 Es gibt ein klares Problem, verschiedene Wege, und eine klare Lösung. Man spricht auch von **blauen Problemen**.
 
     
-### Ill defined problems
-![img_2.png](img_2.png)
+## Ill defined problems
+![Ill defined problems](img_2.png)
 
 Es gibt ein unklares Problem mit verschiedenen Wegen. Es gibt aber mehrere Lösungen. Auch bekannt als **rote Probleme**
 
-### Wicked problems
-![img_3.png](img_3.png)
+## Wicked problems
+![Wicked problems](img_3.png)
 
 Hier geht es um ein unbekanntes Problem, ein Problem welches man noch nicht erkannt hat. Oft kommt es erst nur zu Teillösungen, um die Problemdefinition zu verschärfen und es dadurch das ill defined problem zu vorschein zu bringen.
 
@@ -209,7 +209,20 @@ Dies ist sofort erkennbar, wenn man auf Apple's Mac Evolution blickt:
 
 ![Mac Evolution](./M07_MacBook_evolution.png)
 
+> Think Different. Connect the dots.
 
+Wie schafft es Apple einen so guten Zugang zu seinen KundInnen zu haben, der sich im Design und den Produkten findet?
+
+- **Design over-engeneering** - Das Design muss perfekt sein.
+- **Simplicity** - Weniger ist mehr.
+- **Exzellente Verarbeitung und Ausführung** - Vom Material bis zur Software: Alles muss passen.
+- **Kundenzufriedenheit** - Der Kunde steht im Mittelpunkt.
+- **Die richtigen Leute** - Konstruktivismus und ständiges Lernen - Freiraum für die Kreativität
+- **Feedback Loops** - Ständiger Austausch mit den KundInnen
+- **Product Strategy** - Alle Produkte funktionieren mühelos miteinander
+
+# Zusammenfassung
+Beim Design Thinking geht es daraum, seine KundInnen und ihre Probleme zu verstehen. Erfolgreiche Organisationen setzen genau hier an und entwickeln maßgeschneiderte Lösungen, die stets verbessert und an KundInnen getestet werden. Allen voran gilt es seine Kreativität einzusetzen und Out-of-the-Box zu denken, um Innovation voranzutreiben. Wissen sollte generiert werden, aus dem sich Hypothesen ableiten lassen, die zu definierten Algorithmen werden. Also braucht eine Organisation beide Seiten: kreative Innovation und analytisches prozessorientiertes Denken - um Erfolg zu haben.
 
 # Sources
 - Design Thinking Playbook von Michael Lewrick, Patrick Link und Larry Leifer
