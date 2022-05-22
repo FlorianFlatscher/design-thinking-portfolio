@@ -108,7 +108,10 @@ Der Mikrozyklus definiert sich wie folgt:
 - **Bewerte** und **Optimiere** - Ein Prototyp ist dazu da Mängel und Verbesserungen zu erkennen und diese zu bewerten und optimieren.
 - **Implementiere** - Es geht darum das neue Konzept in die Realität zu schaffen.
 
+Grafik
 
+# Kunden und Problemorientierung
+MO
 
 # Lösungen - Von Problemstellung zu Entscheidung
 Der Lösungsweg ist keinen falls linear, doch kann man gewisse Phasen erkennen. Man spricht von divergierendem und konvergierendem Denken.
@@ -158,24 +161,26 @@ Un jetzt die Frage nach dem Warum:
 Man erkennt sofort, dass man durch Warum fragen schnell an die Grenzen der Komfortzone gebracht wird. Das eigentliche Problem ist bei solchen Wicked Problems nicht mehr offensichtlich. Die Wie fragen helfen das Problem mehr greifbar zu machen.
 
 # Innovation und Ideengenerierung
+FLO
 
-# Mindset
+# Testing und Prototyping
+DAVID
 
-# Future driven
-
-# Testing
-
-# Mind your decisions
-
-# Estimation
+# Personas
+DAVID
 
 # Teams
+p. 144
+FLO
 
 # Lean Geschäftsmodell
 MO
 
-# Apple als Beispiel
+# Mindset und Future Driven - Vorbereitung
 
+
+# Apple als Beispiel
+MO
 
 # Sources
 - Design Thinking Playbook von Michael Lewrick, Patrick Link und Larry Leifer
