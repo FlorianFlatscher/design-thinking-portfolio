@@ -219,7 +219,70 @@ Nachdem wir reichlich Ideen generiert haben kommt es zur **Auswahl der Ideen**. 
 
 
 # Personas
-DAVID
+## Persona erstellen
+Um eine Persona zu erstellen, muss man den typischen Nutzer als "reale Person" darstellen. Um wie wahren Bedürfnisse herauszufinden, werden oft auch Skizzen von potenziellen Nutzern erstellt. Mit diesen wird dann überprüft, ob es solche Nutzer bereits in der realen Welt gibt. Damit man nun die passenden Präferenzen und Bedürfnisse des Nutzers bekommt, muss man Einblicke in die "deep insights" bekommen.
+Für diese Einblicke gibt es Workshops, in denen Canvas-Modelle eingesetzt werden. Ein Beispiel dafür wäre das "User Profile Canvas", in dem eine lebensgroße Person auf ein Plakat gezeichnet wird und mit Bildern, Fotos, Zitaten, etc. geschmückt wird. Diese wird dann schrittweise verbessert, indem versucht wird, das eigentliche Problem zu finden. Ähnlich zu diesem Vorgang wird es auch bei Profilern, die man aus Krimiserien kennt, gemacht.
+- Zeitintensiv (Standardpersonas --> Zeitsparender, aber auch risikoreicher)
+- Empathie mit Nutzer aufbauen
+
+### User Profile Canvas
+![UPC_Person.png](UPC_Person.png)
+![UPC.png](UPC.png)
+### Empathie Map
+Um Empathie zu einem potenziellen Nutzer aufzubauen, benötigt man als erstes einen Entwurf einer Persona. Dabei hilft Brainstorming, aber auch Informationen von Interviews, realen Personen und Beobachtungen. Um nun Empathy zum potenziellen Nutzer aufzubauen, trifft man sich und dokumentiert alle Erkenntnisse. Um Empathie zu erlangen, kann auch die Empathie Map angewandt und befüllt werden. Die davon erlangten Erkenntnisse müssen wiederum analysiert und in eine Persona eingesetzt werden.
+![EmpathyMap.png](EmpathyMap.png)
+
+## Persona überprüfen
+Um Erkenntnisse über den Nutzer zu erlangen, wird die AEIOU-Methode verwendet. Hierfür muss man mit den potenziellen Nutzern sprechen und versuchen, sie nachvollziehen zu können. Dabei kann der AEIOU-Fragebogen ein gutes Hilfsmittel sein, um Information zu erlangen. Außerdem kann man durch das Überschreiten dieser Hemmung, fremde Personen anzusprechen, ein "Needfinding-Experte" werden.
+- Activities (Aktivitäten)
+  - Was passiert?
+  - Was machen die Personen?
+- Environment (=Umgebung)
+  - Wie sieht das Umfeld aus?
+  - Charakter und Funktion des Raums?
+- Interaction (=Interaktion)
+  - Wie agieren die Systeme miteinander?
+  - Wie agieren die Benutzer untereinander?
+  - Schnittstellen?
+- Objects (=Objekte)
+  - Welche Gegenstände und Geräte werden benutzt?
+  - Wer benutzt die Gegenstende wo?
+- User (=Benutzer)
+  - Wer sind die Benutzer?
+  - Welche Rolle nehmen sie ein?
+  - Wer beeinflusst sie?
+
+## Schritte einer Persona-Entwicklung
+1. Finde den Nutzer
+- Wer sind die Nutzer? Wie viele Nutzer gibt es?
+- Quantitative Sammlung von Daten, AEIOU-Methode
+2. Baue eine Hypothese auf
+- Wie unterscheiden sich die Nutzer?
+- Beschreibung der Gruppierungen von gleichen Nutzen/Segmentieren
+3. Bestätigungen
+- Gibt es Daten oder Belege, welche die Hypothese bestätigen?
+- Quantitative Sammlung von Daten, Emapthie Map
+4. Finde Muster
+- Stimmen die ersten beschreibungen der Gruppierungen noch?
+- Kategorisierung, Anwendung Job-to-be-done Framework
+5. Erstelle Personas
+- Wie kann die Persona beschrieben wernden?
+- Kategorisierung, Persona
+6. Definiere Situationen
+- In welcher Situation hat die Persona welchen Anwendungsfall?
+- Nach Situationen und Bedürfnissen suchen, User Profile Canvas
+7. Validierung
+- Kennen Sie so eine Person?
+- Befragung von Personen, lesen von Persona-Beschreibung
+8. Wissensverbreitung
+- Was passiert, wenn die Persona die Technologie nutzt?
+- Storytelling, Anwendung Hook Canvas, etc.
+9. Erstelle Szenarien
+- Wer sind die Nutzer? Wie viele Nutzer gibt es?
+- Quantitative Sammlung von Daten, AEIOU-Methode
+10. Stetige Weiterentwicklung
+- Gibt es neue Informationen?
+- Usability Test, kontinuierliche Überarbeitung der Persona
 
 # Teams
 Beim Design Thinking gilt: Nur als Team, denn Viele sind schlauer als Wenige. Teams sind ein wesentlicher Bestandteil in der Arbeitswelt. Bei Mitgliedern gibt es zwei sehr relevante Dimensionen: tiefes Fachwissen und Allgemeinwissen. Wichtig ist auch Know-how und Erfahrung in einem Themenbereich. Ein funktionierendes Team hat ein ganzheitliches Denken. Es gibt keine limitierende Perspektive - das vielseitige Team betrachtet Themen aus allen Richtungen gleichzeitig. Ein relevantes Modell, welches hilft zu Bewerten, ob ein Team für Design-Thinking geeignet ist, ist das **Prinzip der T-Shaped People** von Dorothy Leonard-Barton.
