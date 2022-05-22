@@ -43,9 +43,9 @@ Da beide Denkweisen (analytisch und kreativ) substanziell für Unternehmen sind,
 ![Der Knwoledge Funnel](./M02_knwoledge_funnel.png)
 
 Bei dem Knowledge Funnel handelt es sich um einen iterativen und sich wiederholenden Prozess, der folgende Phasen beinhaltet:
-- "Mystery": Hier geht es darum, das ursprüngliche Problem anzugreifen und durch erste Recherche und Studien, Wissen daraus zu generieren. Dieses Wissen ist stark unstrukturiert.
-- Heuristiken: Um das Wissen der letzten Phase nutzen zu können, müssen Strukturen und andere Zusammenhänge in dem generierten Wissen gefunden werden. Daraus entstehen wage Daumenregeln, die aber das Wissensspektrum auf die relevanten Informationen beschränken.
-- Algorithmen: Um das Problem zu vereinfachen, werden die zuvor gewonnnen Heuristiken nun in klar definierten Abläufe (= Alogrithmen) transformiert, sodass man das generierte Wissen ausschöpft und daraus praktikable Strukturen gewinnt, die auf die Organisation angewandt werden können.
+- **"Mystery"**: Hier geht es darum, das ursprüngliche Problem anzugreifen und durch erste Recherche und Studien, Wissen daraus zu generieren. Dieses Wissen ist stark unstrukturiert.
+- **Heuristiken**: Um das Wissen der letzten Phase nutzen zu können, müssen Strukturen und andere Zusammenhänge in dem generierten Wissen gefunden werden. Daraus entstehen wage Daumenregeln, die aber das Wissensspektrum auf die relevanten Informationen beschränken.
+- **Algorithmen**: Um das Problem zu vereinfachen, werden die zuvor gewonnnen Heuristiken nun in klar definierten Abläufe (= Alogrithmen) transformiert, sodass man das generierte Wissen ausschöpft und daraus praktikable Strukturen gewinnt, die auf die Organisation angewandt werden können.
 
 Die Kraft dieses Werkzeugs zeigt sich in seiner Anwendbarkeit. Unternehmen können in jeglichen Bereichen Wissen generieren und daraus Algorithmen entwerfen, die sich anbieten und komplex sind. Generell gibt es zwei Domains, in denen stetig Innovation vorangetrieben werden kann:
 
@@ -57,9 +57,19 @@ Beispiele:
 
 Dementsprechend, können sich Unternehmen zeitgleich in verschiedenen Knowledge Funnels befinden, um maximalen Mehrwert für die KundInnen und die Organisation zu bringen:
 
-![Iter](./M04_arten_domains.png)
+![Parallele Knowledge Funnels](./M03_many.png)
 
-## Datenanalyse
+## Ausgangshypothese
+Wenn Innovation in einem Bereich vorangetrieben werden soll, dann ist es wichtig, eine Ausgangshypothese zu haben, um das dahinter liegende Problem effektiv zu lösen. Dabei kommt es auf die richtige Wahl an - den Ansatzpunkt. Folgender Prozess kann hilfreich sein, die Ausgangshypothese herauszuarbeiten:
+- Domainauswahl (Produkt- oder Strukturdomain)
+- Datenauswertung und Visualisierung
+- Finden von "Outliers" - Daten, die nich der Norm entsprechen
+
+![Studie von Outlier Daten](./M05_outlier.png)
+
+Outlier haben Merkmale, die nicht dem Rest entsprechen - die aber ebenso beachtet werden sollten. Sie zeigen Aspekte auf, die sich keiner Trivialität unterwerfen aber nützlich für die Studie der Domain sind.
+
+
 
 ## Exploration und Exploitation
 
@@ -104,8 +114,10 @@ Beim divergierendem Denken geht es darum zu identifizieren, diskutieren, bekannt
 
 # Estimation
 
-# Lean Geschäftsmodell
+# Teams
 
+# Lean Geschäftsmodell
+MO
 
 
 
@@ -114,4 +126,5 @@ Beim divergierendem Denken geht es darum zu identifizieren, diskutieren, bekannt
 - Design Thinking Playbook von Michael Lewrick, Patrick Link und Larry Leifer
 - https://designthinking.ideo.com/
 - https://www.franchiseverband.com/wissen/franchising-definition#:~:text=Franchising%20ist%20ein%20auf%20Partnerschaft,gegen%20eine%20Geb%C3%BChr%20nutzen%20d%C3%BCrfen.
-- 
+- Roger L. Martin (November 2009). The Design of Business. Harvard Business Press.
+- https://en.wikipedia.org/wiki/The_Design_of_Business
