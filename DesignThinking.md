@@ -253,34 +253,34 @@ Um Erkenntnisse über den Nutzer zu erlangen, wird die AEIOU-Methode verwendet. 
   - Wer beeinflusst sie?
 
 ## Schritte einer Persona-Entwicklung
-1. ####Finde den Nutzer
+1. Finde den Nutzer
 - Wer sind die Nutzer? Wie viele Nutzer gibt es?
 - Quantitative Sammlung von Daten, AEIOU-Methode
-2. ####Baue eine Hypothese auf
+2. Baue eine Hypothese auf
 - Wie unterscheiden sich die Nutzer?
 - Beschreibung der Gruppierungen von gleichen Nutzen/Segmentieren
-3. ####Bestätigungen
+3. Bestätigungen
 - Gibt es Daten oder Belege, welche die Hypothese bestätigen?
 - Quantitative Sammlung von Daten, Emapthie Map
-4. ####Finde Muster
+4. Finde Muster
 - Stimmen die ersten beschreibungen der Gruppierungen noch?
 - Kategorisierung, Anwendung Job-to-be-done Framework
-5. ####Erstelle Personas
+5. Erstelle Personas
 - Wie kann die Persona beschrieben wernden?
 - Kategorisierung, Persona
-6. ####Definiere Situationen
+6. Definiere Situationen
 - In welcher Situation hat die Persona welchen Anwendungsfall?
 - Nach Situationen und Bedürfnissen suchen, User Profile Canvas
-7. ####Validierung
+7. Validierung
 - Kennen Sie so eine Person?
 - Befragung von Personen, lesen von Persona-Beschreibung
-8. ####Wissensverbreitung
+8. Wissensverbreitung
 - Was passiert, wenn die Persona die Technologie nutzt?
 - Storytelling, Anwendung Hook Canvas, etc.
-9. ####Erstelle Szenarien
+9. Erstelle Szenarien
 - Wer sind die Nutzer? Wie viele Nutzer gibt es?
 - Quantitative Sammlung von Daten, AEIOU-Methode
-10. ####Stetige Weiterentwicklung
+10. Stetige Weiterentwicklung
 - Gibt es neue Informationen?
 - Usability Test, kontinuierliche Überarbeitung der Persona
 
