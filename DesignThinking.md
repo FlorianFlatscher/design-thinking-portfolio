@@ -273,7 +273,7 @@ Wie schafft es Apple einen so guten Zugang zu seinen KundInnen zu haben, der sic
 # Zusammenfassung
 Beim Design Thinking geht es daraum, seine KundInnen und ihre Probleme zu verstehen. Erfolgreiche Organisationen setzen genau hier an und entwickeln maßgeschneiderte Lösungen, die stets verbessert und an KundInnen getestet werden. Allen voran gilt es seine Kreativität einzusetzen und Out-of-the-Box zu denken, um Innovation voranzutreiben. Wissen sollte generiert werden, aus dem sich Hypothesen ableiten lassen, die zu definierten Algorithmen werden. Also braucht eine Organisation beide Seiten: kreative Innovation und analytisches prozessorientiertes Denken - um Erfolg zu haben.
 
-# Sources
+# Quellenangabe
 - Design Thinking Playbook von Michael Lewrick, Patrick Link und Larry Leifer
 - https://designthinking.ideo.com/
 - https://www.franchiseverband.com/wissen/franchising-definition#:~:text=Franchising%20ist%20ein%20auf%20Partnerschaft,gegen%20eine%20Geb%C3%BChr%20nutzen%20d%C3%BCrfen.
