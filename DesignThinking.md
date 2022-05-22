@@ -186,7 +186,35 @@ Un jetzt die Frage nach dem Warum:
 Man erkennt sofort, dass man durch Warum fragen schnell an die Grenzen der Komfortzone gebracht wird. Das eigentliche Problem ist bei solchen Wicked Problems nicht mehr offensichtlich. Die Wie fragen helfen das Problem mehr greifbar zu machen.
 
 # Innovation und Ideengenerierung
-FLO
+
+Nachdem wir Probleme geklärt haben, geht es jetzt um Ideen um diese zu Lösen. Wie generieren wir Ideen? Es ist klar, dass die meisten bahnbrechenden Ideen nicht nur während einem Brainstorming entstehen. Was entscheidet die Quantität unserer Idee?
+
+Kreative Firmen lassen ihren MitarbeiterInnen möglichst viel Freiraum, da dies ein kreatives Denken fördert. Manche Firmen führen sogar Tage ein wo jeder machen kann was er oder sie will und dann rückmeldet was erreicht wurde. Der Erfolg dieser Firmen zeigt uns, dass innovative Ideengenerierung durch zielgerichtete kreativität gefördert werden kann. 
+
+Trotzdem schreckt es viele Vorgesetzte, wenn MitarbeiterInnen erklären, dass sie die nächsten vier Stunden im Pausenraum verbringen, mit der begründung dadurch Ideen zu finden. Es braucht daher konkrete Methoden und Tools der struktuierten Ideenfindung. 
+
+#### Brainstormings
+Ein Brainstorming kann nicht beginnen, wenn nicht alle einmal gelacht haben. Es geht darum eine lockere und entspannte Atmosphäre zu schaffen, die kreatives Denken ermöglicht. Wichtig ist zu verstehn, dass es bei Brainstormings nicht darum geht Lösungen zu finden, sondern Ideen zu generieren. Deshalb gibt es einpaar Regeln, die ein erfolgreiches Brainstorming ausmachen:
+
+- **Kreativer Mut**: Teilnehmer müssen alle Ideen äußern, die ihnen in den Sinn kommen, auch wenn sie auf den ersten Blick irrelevant erscheinen. Andere könnten dann auf dieser Idee aufbauen. Um kreativen Mut zu schaffen, sind vor allem Hierarchiestrukturen hinderlich. Als Neuling möchte man sich natürlich einen guten Eindruck beim Chef hinterlassen. Experten im Bereich Design-Thinking sind sich überaus einig, dass eine Vorstellrunde in einem Brainstorming ein No-Go ist. Noch besser ist, wenn sich die Teilnehmer überhaupt nicht kennen. Fokus sollte auf der Ideenfindung liegen, nicht darauf sich zu beweisen. Jeder kann Ideen liefern, egal, welche Funktion und Rolle er oder sie hat.
+- **Quantität vor Qualität**: Beim Brainstorming ist es wichtig eine divergierende Denkphase zuzulassen. Es geht in erster Linie darum, möglichst viele Ideen zu sammeln. Zum Sortieren und Entscheiden bleibt später noch genug Zeit. Sich für die erste Lösung zu entscheiden, ist natürlich verlockend, man muss sich aber immer vor Augen halten, dass die viel bessere Lösung nur 5 Minuten Brainstorming entfernt ist.
+- **Keine Kritik an Ideen**: Ideen finden, und Ideen diskutieren muss möglichst separate. Wie bereits erwähnt erfolgt die Beurteilung in einem separaten Schritt.
+
+Bereits zum Beginn eines Brainstorming haben alle TeilnehmerInnen bereits eine triviale Lösung im Kopf. Doch dabei handelt es sich eigentlich nie um eine innovative Idee. Hier kann ein sogenannter "Brain Dump" helfen. Dabei laden alle Beteiligten ihre Idee ab, sodass sie offen für neues sind. Dann geht es los "wilde" Ideen zu finden. Dazu folgender Trick:
+1) **Wettbewerb**: Größere Runden lassen sich in kleinere Teams einteilen, die dann untereinander Ideen finden. Nach Halbzeit gibt es dann einen kleinen Wettbewerb, in dem jede Gruppe ihre Ideen präsentiert. Der springende Punkt ist aber, die Ideen nicht nach qualität zu bewerten, sondern nach quantität. Das Team mit den meisten Ideen gewinnt. Die einzelnen Teams erhalten dadurch ansporn kreative Leistungen zu erbringen. Außerdem wird erkannt, wenn einzelne Gruppen mit der Quantität weit zurückliegen. Oft liegt es daran, dass sie sich auf Diskussionen und Kritik an Ideen eingelassen haben. So gibt es sogar einen natürlichen selbstkritischen Kreislauf.
+2) **Präsentieren**: Anschließend soll jedes Team ihre zwei besten und ihre zwei dümmsten Ideen vorstellen. Das führt einerseits zu viel gekicher und hebt somit die Stimmung, führt aber auch zu einem Neuwert, wenn wir es schaffen genau diese Ideen ins Positive zu drehen. In jeder Idee steckt Potenzial.
+
+#### Kopfstandmethode
+Bei der Kopfstandmethode geht es nicht um Sport, es geht darum, die Fragestellung umzudrehen. Statt "Wie fördere ich Kreativität in meinem Unternehmen?", heißt es dann "Wie verhindere ich Kreativität in meinem Unternehmen?". Alle Teilnehmer haben dann die Möglichkeit ihre kreativität zu nutzen, um sich über ein Thema lustig zu machen. Im Anschluss geht es dann darum die Ideen wieder umzudrehen und so eine Idee für die originale Fragestellung zu generieren. Diese Methode ist vor allem geeignet, um Dienstleistungsabläufe zu überdenken und zu verbessern. Bei Produkten ist die Kopfstandmethode meist besser um Anforderungen zu erstellen, anstatt Ideen zu finden.
+
+Nachdem wir reichlich Ideen generiert haben kommt es zur **Auswahl der Ideen**. Bevor man eine Entscheidung trifft, einigt man sich erst auf Ideen, die man weiter verfolgen möchte. Dazu gibt es sehr viele Möglichkeiten. Hier einpaar beispiele:
+- Punktbewertung: Jeder hat eine gewisse Anzahl an Stimmen und kann diese auf die Ideen aufteilen. Die Ideen mit der besten Bewertung werden weiterverfolgt.
+- Nur Ideen mit Neuigkeitswert werden weiter verfolgt.
+- Ideen werden in ein Diagramm mit mehreren Achsen, wie "Cool" und "Machbar", eingeteilt. Es werden anschließend zwei oder mehr Ideen ausgewählt, diese müssen aber nicht zwangsläufig in der Mitte oder am Rand sein. Die Einteilung nach gewissen charakteristiken führt oft zu neuer Erkenntnis und Verbesserungen.
+- Beim Clustering geht es darum, Ideen nach Themen und Überbegriffen zu gruppieren. Das versichert, dass alle die Ideen richtig verstehen.
+
+
+
 
 # Personas
 DAVID
