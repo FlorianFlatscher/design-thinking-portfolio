@@ -195,7 +195,7 @@ Der Lösungsweg ist keinen falls linear, doch kann man gewisse Phasen erkennen. 
 
 ![Lösungen im Design-Thinking Prozess](img.png)
 
-Beim divergierendem Denken geht es darum zu identifizieren, diskutieren, bekannte optionen und unterschiedliche Perspectieven kennen zu lernen. In dieser Phase geht es quasi darum mögllichst viele Ideen und Lösungen zu sammeln. Dann folgt die Phase des konvergiertem Denken. Dabei geht es um priorisieren, auswählen, vereinfachen, konsolidieren. Es geht darum die vielen generierten Ideen zu einer Lösung zu integrieren. Dazwischen gibt es die "Groan Zone", die Phase, die das Umdenken definiert. Diese Zone ist umbedingt zu erkennen, da es der optimale Punkt ist, das Denkverhalten zu ändern. Das Divergieren und Konvergieren dauert mal länger, mal kürzer. Natürlich wiederhohlen  sich diese Phasen immer wieder im Design Thinking Prozess.
+Beim divergierendem Denken geht es darum zu identifizieren, diskutieren, bekannte Optionen und unterschiedliche Perspektiven kennenzulernen. In dieser Phase geht es quasi darum, möglichst viele Ideen und Lösungen zu sammeln. Dann folgt die Phase des konvergiertem Denken. Dabei geht es um priorisieren, auswählen, vereinfachen, konsolidieren. Es geht darum, die vielen generierten Ideen zu einer Lösung zu integrieren. Dazwischen gibt es die "Groan Zone", die Phase, die das Umdenken definiert. Diese Zone ist unbedingt zu erkennen, da es der optimale Punkt ist, das Denkverhalten zu ändern. Das Divergieren und Konvergieren dauert mal länger, mal kürzer. Natürlich wiederholen  sich diese Phasen immer wieder im Design Thinking Prozess.
 
 ## Arten von Problemen
 
@@ -213,7 +213,8 @@ Es gibt ein unklares Problem mit verschiedenen Wegen. Es gibt aber mehrere Lösu
 ### Wicked problems
 ![Wicked problems](img_3.png)
 
-Hier geht es um ein unbekanntes Problem, ein Problem welches man noch nicht erkannt hat. Oft kommt es erst nur zu Teillösungen, um die Problemdefinition zu verschärfen und es dadurch das ill defined problem zu vorschein zu bringen.
+
+Hier geht es um ein unbekanntes Problem, ein Problem, welches man noch nicht erkannt hat. Oft kommt es erst nur zu Teillösungen, um die Problemdefinition zu verschärfen und es dadurch das ill defined problem zu vorschein zu bringen.
 
 Egal um welche Art von Problem es sich handelt, es ist immer wichtig genug Zeit und Ressourcen zu verwenden, um ein möglichst gute Problemdefinition zu erhalten. Es mag oft eine Überwindung sein, da man ja eigentlich eine Lösung finden und kein Problem schaffen will. Um eine gute Lösung zu finden, gibt es aber drei klare Anforderungen:
 
@@ -221,7 +222,7 @@ Egal um welche Art von Problem es sich handelt, es ist immer wichtig genug Zeit 
 2. Die Design-Challenge muss so definiert werden, dass diese es erlaubt, nützliche Lösungen zu entwickeln
 3. Die potenzielle Lösung muss zum definierten Design Space & Scope passen
 
-Um Probleme greifbarer zu machen, reicht es of den kreativen Rahmen zu verkleinern oder manchmal auch etwas zu erweitern, um das richtige Niveau zu erhalten. Wie steuere ich den kreativen Rahmen? Durch die Frage nach dem Warum wird der kreative Rahmen erweitert. Durch die Frage nach dem Wie steuert man auf realistischere Lösungen zu. 
+Um Probleme greifbarer zu machen, reicht es oft den kreativen Rahmen zu verkleinern oder manchmal auch etwas zu erweitern, um das richtige Niveau zu erhalten. Wie steuere ich den kreativen Rahmen? Durch die Frage nach dem Warum wird der kreative Rahmen erweitert. Durch die Frage nach dem Wie steuert man auf realistischere Lösungen zu.
 
 Um diesen Gedankengang besser zu veranschaulichen, ein Beispiel von Umgang mit einem Problem in Zusammenhang mit einem Dosenöffner.
 
@@ -230,7 +231,7 @@ Wen wir nach dem Wie fragen:
 - Wie kann durch einen Drehmechanismus die Dose geöffnet werden?
 - Wie kann die Dose ohne zusätzliches Hilfsmittel geöffnet werden?
 
-Un jetzt die Frage nach dem Warum:
+Und jetzt die Frage nach dem Warum:
 - Wie können wir den Welthunger stoppen?
 - Wie könnten wir verhindern, dass so viele Lebensmittel weggeworfen werden?
 
@@ -238,30 +239,30 @@ Man erkennt sofort, dass man durch Warum fragen schnell an die Grenzen der Komfo
 
 ## Innovation und Ideengenerierung
 
-Nachdem wir Probleme geklärt haben, geht es jetzt um Ideen um diese zu Lösen. Wie generieren wir Ideen? Es ist klar, dass die meisten bahnbrechenden Ideen nicht nur während einem Brainstorming entstehen. Was entscheidet die Quantität unserer Idee?
+Nachdem wir Probleme geklärt haben, geht es jetzt um Ideen um diese zu lösen. Wie generieren wir Ideen? Es ist klar, dass die meisten bahnbrechenden Ideen nicht nur während einem Brainstorming entstehen. Was entscheidet die Quantität unserer Idee?
 
-Kreative Firmen lassen ihren MitarbeiterInnen möglichst viel Freiraum, da dies ein kreatives Denken fördert. Manche Firmen führen sogar Tage ein wo jeder machen kann was er oder sie will und dann rückmeldet was erreicht wurde. Der Erfolg dieser Firmen zeigt uns, dass innovative Ideengenerierung durch zielgerichtete kreativität gefördert werden kann. 
+Kreative Firmen lassen ihren MitarbeiterInnen möglichst viel Freiraum, da dies ein kreatives Denken fördert. Manche Firmen führen sogar Tage ein wo jeder machen kann was er oder sie will und dann rückmeldet was erreicht wurde. Der Erfolg dieser Firmen zeigt uns, dass innovative Ideengenerierung durch zielgerichtete Kreativität gefördert werden kann.
 
-Trotzdem schreckt es viele Vorgesetzte, wenn MitarbeiterInnen erklären, dass sie die nächsten vier Stunden im Pausenraum verbringen, mit der begründung dadurch Ideen zu finden. Es braucht daher konkrete Methoden und Tools der struktuierten Ideenfindung. 
+Trotzdem schreckt es viele Vorgesetzte, wenn MitarbeiterInnen erklären, dass sie die nächsten vier Stunden im Pausenraum verbringen, mit der Begründung dadurch Ideen zu finden. Es braucht daher konkrete Methoden und Tools der strukturierten Ideenfindung.
 
 ### Brainstormings
-Ein Brainstorming kann nicht beginnen, wenn nicht alle einmal gelacht haben. Es geht darum eine lockere und entspannte Atmosphäre zu schaffen, die kreatives Denken ermöglicht. Wichtig ist zu verstehn, dass es bei Brainstormings nicht darum geht Lösungen zu finden, sondern Ideen zu generieren. Deshalb gibt es einpaar Regeln, die ein erfolgreiches Brainstorming ausmachen:
+Ein Brainstorming kann nicht beginnen, wenn nicht alle einmal gelacht haben. Es geht darum, eine lockere und entspannte Atmosphäre zu schaffen, die kreatives Denken ermöglicht. Wichtig ist zu verstehen, dass es bei Brainstormings nicht darum geht, Lösungen zu finden, sondern Ideen zu generieren. Deshalb gibt es ein paar Regeln, die ein erfolgreiches Brainstorming ausmachen:
 
-- **Kreativer Mut**: Teilnehmer müssen alle Ideen äußern, die ihnen in den Sinn kommen, auch wenn sie auf den ersten Blick irrelevant erscheinen. Andere könnten dann auf dieser Idee aufbauen. Um kreativen Mut zu schaffen, sind vor allem Hierarchiestrukturen hinderlich. Als Neuling möchte man sich natürlich einen guten Eindruck beim Chef hinterlassen. Experten im Bereich Design-Thinking sind sich überaus einig, dass eine Vorstellrunde in einem Brainstorming ein No-Go ist. Noch besser ist, wenn sich die Teilnehmer überhaupt nicht kennen. Fokus sollte auf der Ideenfindung liegen, nicht darauf sich zu beweisen. Jeder kann Ideen liefern, egal, welche Funktion und Rolle er oder sie hat.
-- **Quantität vor Qualität**: Beim Brainstorming ist es wichtig eine divergierende Denkphase zuzulassen. Es geht in erster Linie darum, möglichst viele Ideen zu sammeln. Zum Sortieren und Entscheiden bleibt später noch genug Zeit. Sich für die erste Lösung zu entscheiden, ist natürlich verlockend, man muss sich aber immer vor Augen halten, dass die viel bessere Lösung nur 5 Minuten Brainstorming entfernt ist.
-- **Keine Kritik an Ideen**: Ideen finden, und Ideen diskutieren muss möglichst separate. Wie bereits erwähnt erfolgt die Beurteilung in einem separaten Schritt.
+- **Kreativer Mut**: Teilnehmer müssen alle Ideen äußern, die ihnen in den Sinn kommen, auch wenn sie auf den ersten Blick irrelevant erscheinen. Andere könnten dann auf dieser Idee aufbauen. Um kreativen Mut zu schaffen, sind vor allem Hierarchiestrukturen hinderlich. Als Neuling möchte man sich natürlich einen guten Eindruck beim Chef hinterlassen. Experten im Bereich Design-Thinking sind sich überaus einig, dass eine Vorstellrunde in einem Brainstorming ein No-Go ist. Noch besser ist, wenn sich die Teilnehmer überhaupt nicht kennen. Fokus sollte auf der Ideenfindung liegen, nicht darauf, sich zu beweisen. Jeder kann Ideen liefern, egal, welche Funktion und Rolle er oder sie hat.
+- **Quantität vor Qualität**: Beim Brainstorming ist es wichtig, eine divergierende Denkphase zuzulassen. Es geht in erster Linie darum, möglichst viele Ideen zu sammeln. Zum Sortieren und Entscheiden bleibt später noch genug Zeit. Sich für die erste Lösung zu entscheiden, ist natürlich verlockend, man muss sich aber immer vor Augen halten, dass die viel bessere Lösung nur 5 Minuten Brainstorming entfernt ist.
+- **Keine Kritik an Ideen**: Ideen finden, und Ideen diskutieren muss möglichst separate. Wie bereits erwähnt, erfolgt die Beurteilung in einem separaten Schritt.
 
-Bereits zum Beginn eines Brainstorming haben alle TeilnehmerInnen bereits eine triviale Lösung im Kopf. Doch dabei handelt es sich eigentlich nie um eine innovative Idee. Hier kann ein sogenannter "Brain Dump" helfen. Dabei laden alle Beteiligten ihre Idee ab, sodass sie offen für neues sind. Dann geht es los "wilde" Ideen zu finden. Dazu folgender Trick:
-1) **Wettbewerb**: Größere Runden lassen sich in kleinere Teams einteilen, die dann untereinander Ideen finden. Nach Halbzeit gibt es dann einen kleinen Wettbewerb, in dem jede Gruppe ihre Ideen präsentiert. Der springende Punkt ist aber, die Ideen nicht nach qualität zu bewerten, sondern nach quantität. Das Team mit den meisten Ideen gewinnt. Die einzelnen Teams erhalten dadurch ansporn kreative Leistungen zu erbringen. Außerdem wird erkannt, wenn einzelne Gruppen mit der Quantität weit zurückliegen. Oft liegt es daran, dass sie sich auf Diskussionen und Kritik an Ideen eingelassen haben. So gibt es sogar einen natürlichen selbstkritischen Kreislauf.
-2) **Präsentieren**: Anschließend soll jedes Team ihre zwei besten und ihre zwei dümmsten Ideen vorstellen. Das führt einerseits zu viel gekicher und hebt somit die Stimmung, führt aber auch zu einem Neuwert, wenn wir es schaffen genau diese Ideen ins Positive zu drehen. In jeder Idee steckt Potenzial.
+Bereits zum Beginn eines Brainstormings haben alle TeilnehmerInnen bereits eine triviale Lösung im Kopf. Doch dabei handelt es sich eigentlich nie um eine innovative Idee. Hier kann ein sogenannter "Brain Dump" helfen. Dabei laden alle Beteiligten ihre Idee ab, sodass sie offen für neues sind. Dann geht es los, "wilde" Ideen zu finden. Dazu folgender Trick:
+1) **Wettbewerb**: Größere Runden lassen sich in kleinere Teams einteilen, die dann untereinander Ideen finden. Nach Halbzeit gibt es dann einen kleinen Wettbewerb, in dem jede Gruppe ihre Ideen präsentiert. Der springende Punkt ist aber, die Ideen nicht nach Qualität zu bewerten, sondern nach Quantität. Das Team mit den meisten Ideen gewinnt. Die einzelnen Teams erhalten dadurch Ansporn, kreative Leistungen zu erbringen. Außerdem wird erkannt, wenn einzelne Gruppen mit der Quantität weit zurückliegen. Oft liegt es daran, dass sie sich auf Diskussionen und Kritik an Ideen eingelassen haben. So gibt es sogar einen natürlichen, selbstkritischen Kreislauf.
+2) **Präsentieren**: Anschließend soll jedes Team ihre zwei besten und ihre zwei dümmsten Ideen vorstellen. Das führt einerseits zu viel Gekicher und hebt somit die Stimmung, führt aber auch zu einem Neuwert, wenn wir es schaffen genau diese Ideen ins Positive zu drehen. In jeder Idee steckt Potenzial.
 
 ### Kopfstandmethode
-Bei der Kopfstandmethode geht es nicht um Sport, es geht darum, die Fragestellung umzudrehen. Statt "Wie fördere ich Kreativität in meinem Unternehmen?", heißt es dann "Wie verhindere ich Kreativität in meinem Unternehmen?". Alle Teilnehmer haben dann die Möglichkeit ihre kreativität zu nutzen, um sich über ein Thema lustig zu machen. Im Anschluss geht es dann darum die Ideen wieder umzudrehen und so eine Idee für die originale Fragestellung zu generieren. Diese Methode ist vor allem geeignet, um Dienstleistungsabläufe zu überdenken und zu verbessern. Bei Produkten ist die Kopfstandmethode meist besser um Anforderungen zu erstellen, anstatt Ideen zu finden.
+Bei der Kopfstandmethode geht es nicht um Sport, es geht darum, die Fragestellung umzudrehen. Statt "Wie fördere ich Kreativität in meinem Unternehmen?", heißt es dann "Wie verhindere ich Kreativität in meinem Unternehmen?". Alle Teilnehmer haben dann die Möglichkeit, ihre Kreativität zu nutzen, um sich über ein Thema lustig zu machen. Im Anschluss geht es dann darum, die Ideen wieder umzudrehen und so eine Idee für die originale Fragestellung zu generieren. Diese Methode ist vor allem geeignet, um Dienstleistungsabläufe zu überdenken und zu verbessern. Bei Produkten ist die Kopfstandmethode meist besser, um Anforderungen zu erstellen, anstatt Ideen zu finden.
 
-Nachdem wir reichlich Ideen generiert haben kommt es zur **Auswahl der Ideen**. Bevor man eine Entscheidung trifft, einigt man sich erst auf Ideen, die man weiter verfolgen möchte. Dazu gibt es sehr viele Möglichkeiten. Hier einpaar beispiele:
+Nachdem wir reichlich Ideen generiert haben, kommt es zur **Auswahl der Ideen**. Bevor man eine Entscheidung trifft, einigt man sich erst auf Ideen, die man weiter verfolgen möchte. Dazu gibt es sehr viele Möglichkeiten. Hier ein paar Beispiele:
 - Punktbewertung: Jeder hat eine gewisse Anzahl an Stimmen und kann diese auf die Ideen aufteilen. Die Ideen mit der besten Bewertung werden weiterverfolgt.
 - Nur Ideen mit Neuigkeitswert werden weiter verfolgt.
-- Ideen werden in ein Diagramm mit mehreren Achsen, wie "Cool" und "Machbar", eingeteilt. Es werden anschließend zwei oder mehr Ideen ausgewählt, diese müssen aber nicht zwangsläufig in der Mitte oder am Rand sein. Die Einteilung nach gewissen charakteristiken führt oft zu neuer Erkenntnis und Verbesserungen.
+- Ideen werden in ein Diagramm mit mehreren Achsen, wie "Cool" und "Machbar", eingeteilt. Es werden anschließend zwei oder mehr Ideen ausgewählt, diese müssen aber nicht zwangsläufig in der Mitte oder am Rand sein. Die Einteilung nach gewissen Charakteristiken führt oft zu neuer Erkenntnis und Verbesserungen.
 - Beim **Clustering** geht es darum, Ideen nach Themen und Überbegriffen zu gruppieren. Das versichert, dass alle die Ideen richtig verstehen.
 
 
@@ -339,28 +340,28 @@ Um Erkenntnisse über den Nutzer zu erlangen, wird die AEIOU-Methode verwendet. 
 - Usability Test, kontinuierliche Überarbeitung der Persona
 
 # Teams
-Beim Design Thinking gilt: Nur als Team, denn Viele sind schlauer als Wenige. Teams sind ein wesentlicher Bestandteil in der Arbeitswelt. Bei Mitgliedern gibt es zwei sehr relevante Dimensionen: tiefes Fachwissen und Allgemeinwissen. Wichtig ist auch Know-how und Erfahrung in einem Themenbereich. Ein funktionierendes Team hat ein ganzheitliches Denken. Es gibt keine limitierende Perspektive - das vielseitige Team betrachtet Themen aus allen Richtungen gleichzeitig. Ein relevantes Modell, welches hilft zu Bewerten, ob ein Team für Design-Thinking geeignet ist, ist das **Prinzip der T-Shaped People** von Dorothy Leonard-Barton.
+Beim Design Thinking gilt: Nur als Team, denn viele sind schlauer als Wenige. Teams sind ein wesentlicher Bestandteil in der Arbeitswelt. Bei Mitgliedern gibt es zwei sehr relevante Dimensionen: tiefes Fachwissen und Allgemeinwissen. Wichtig ist auch Know-how und Erfahrung in einem Themenbereich. Ein funktionierendes Team hat ein ganzheitliches Denken. Es gibt keine limitierende Perspektive - das vielseitige Team betrachtet Themen aus allen Richtungen gleichzeitig. Ein relevantes Modell, welches hilft zu Bewerten, ob ein Team für Design-Thinking geeignet ist, ist das **Prinzip der T-Shaped People** von Dorothy Leonard-Barton.
 
 ![T-Shaped Teams](img_4.png)
 
-Der vertikale Balken des T-Profils steht für fachliche kompetenz, spezialisiert in einer Disziplin, einem System oder einer Kultur. Der horizontale Balken überstreckt sich über zwei Eigenschaften. Einerseits die Empathie, also wie sehr eine Person in andere hinein fühlen kann. Dann gibt es noch die Kollaborationsfähigkeiten. Dazu zählen Offenheit, Interesse und Neugier. 
+Der vertikale Balken des T-Profils steht für fachliche Kompetenz, spezialisiert in einer Disziplin, einem System oder einer Kultur. Der horizontale Balken überstreckt sich über zwei Eigenschaften. Einerseits die Empathie, also wie sehr eine Person in andere hinein fühlen kann. Dann gibt es noch die Kollaborationsfähigkeiten. Dazu zählen Offenheit, Interesse und Neugier.
 
-Personen mit T-Proil sind die beste Wahl für ein Team mit sowohl tiefem, als auch breitem Wissen. Der horizontale Balken bildet die Brücke zwischen verschiedenem Fachwissen. So entsteht ein interdisziplinäres Team, welches aufgrund, iterativen Abstimmungen zu besserer Qualität des Gesamtergebnisses führt. Damit ein interdisziplinäres Team aber ein gemeinsames Ziel verfolgen kann, braucht es einige Regeln:
+Personen mit T-Profil sind die beste Wahl für ein Team mit sowohl tiefem als auch breitem Wissen. Der horizontale Balken bildet die Brücke zwischen verschiedenem Fachwissen. So entsteht ein interdisziplinäres Team, welches aufgrund, iterativen Abstimmungen zu besserer Qualität des Gesamtergebnisses führt. Damit ein interdisziplinäres Team aber ein gemeinsames Ziel verfolgen kann, braucht es einige Regeln:
 
 1) Das Team hat eine gemeinsame Vision.
 2) Themen, die im Design-Thinking Prozess auftreten, werden immer vom passendem Fachexperten geführt. Leadership ist wichtig. Leder sind Leute, denen automatisch gefolgt wird.
 3) Das Team einigt sich auf gemeinsame Werte.
 4) Es gibt eine Atmosphäre des Vertrauens.
-5) Prozesse sind gemeinsam durchzuführen, sodass jeder stets das Vorgehen versteht. Absprache und Kommuniktation sind dabei essenziell.
+5) Prozesse sind gemeinsam durchzuführen, sodass jeder stets das Vorgehen versteht. Absprache und Kommunikation sind dabei essenziell.
 6) Nachvollziehbares Feedback ist notwendig für Verbesserung.
 
-Neben dem T-Model, ist auch das **Metaphorisches Modell** relevant für die Zusammenstellung von Teams. Dieses beschreibt unser Gehirn in vier physiologischen Hirnstrukturen wie folgt:
+Neben dem T-Model ist auch das **Metaphorische Modell** relevant für die Zusammenstellung von Teams. Dieses beschreibt unser Gehirn in vier physiologischen Hirnstrukturen wie folgt:
 
 ![Metaphorisches Modell](img_5.png)
 
-Es kann hilfreich sein, sich offen im Tem über die verschiedenen Denkpräferenzen auszutauschen, und Aufgaben den Erkenntnissen nach aufzuteilen. Dieser Austausch fördert ein Verständnis unter den Teammitgliedern. Dadurch kann jeder seine oder ihre Stärken ausspielen und es kommt so schlussendlich zu besseren Lösungen.
+Es kann hilfreich sein, sich offen im Team über die verschiedenen Denkpräferenzen auszutauschen, und Aufgaben den Erkenntnissen nach aufzuteilen. Dieser Austausch fördert ein Verständnis unter den Teammitgliedern. Dadurch kann jeder seine oder ihre Stärken ausspielen und es kommt so schlussendlich zu besseren Lösungen.
 
-Zusammengefasst ist also vor allem die Heterogenität eines Teams qualitätsrelevant. Man achtet auf ausgewogene fachlich relevante Perspektiven und persönlichkeitsbezogene Ansichten. Die unterschiedlichen Herangehensweisen, Denkpräferenzen und Hintergrundwissen fürder die Kreativität des Teams als kleinste Einheit.
+Zusammengefasst ist also vor allem die Heterogenität eines Teams qualitätsrelevant. Man achtet auf ausgewogene, fachlich relevante Perspektiven und persönlichkeitsbezogene Ansichten. Die unterschiedlichen Herangehensweisen, Denkpräferenzen und Hintergrundwissen fürder die Kreativität des Teams als kleinste Einheit.
 
 
 # Mindset und Future Driven - Vorbereitung
